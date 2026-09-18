@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>よこぼのAIラボ　研究ログ</title>
+  <link>https://yokobo-ai-lab.vercel.app</link>
+  <description><![CDATA[ようこそ、よこぼのAIラボへ。
+
+この番組は、AIラボ所長のよこぼが日々の実験や気づき、失敗談や妄想をゆるく記録していく研究ログです。
+
+AIを触ってみたり、ゲームを作ってみたり、本を読んで考え込んでみたり。
+
+「世界モデルって何だろう？」
+「一次情報ってどう集めればいいんだろう？」
+「AIと一緒にゲームを作ったらどうなるんだろう？」
+
+そんな気になったテーマについて、まだ整理しきれていない考えも含めてお話しします。
+
+完成した答えや正解を語るというよりは、試行錯誤の途中経過を残していく場所です。
+
+研究結果が大成功の日もあれば、盛大に失敗する日もあるかもしれません。
+
+AI、ゲーム開発、読書、ものづくり、学び、そして時々どうでもいい雑談。
+
+何かを作ったり考えたりするのが好きな方に、少しでも楽しんでもらえたら嬉しいです。
+
+AIラボの研究記事や制作物は「よこぼのAIラボ」で公開中。
+
+https://yokobo-ai-lab.vercel.app/]]></description>
+  <language>ja</language>
+  <atom:link href="https://pub-b41150828c6b4ba281393f859abc6865.r2.dev/podcast/feed.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>よこぼ</itunes:author>
+  <itunes:summary><![CDATA[ようこそ、よこぼのAIラボへ。
+
+この番組は、AIラボ所長のよこぼが日々の実験や気づき、失敗談や妄想をゆるく記録していく研究ログです。
+
+AIを触ってみたり、ゲームを作ってみたり、本を読んで考え込んでみたり。
+
+「世界モデルって何だろう？」
+「一次情報ってどう集めればいいんだろう？」
+「AIと一緒にゲームを作ったらどうなるんだろう？」
+
+そんな気になったテーマについて、まだ整理しきれていない考えも含めてお話しします。
+
+完成した答えや正解を語るというよりは、試行錯誤の途中経過を残していく場所です。
+
+研究結果が大成功の日もあれば、盛大に失敗する日もあるかもしれません。
+
+AI、ゲーム開発、読書、ものづくり、学び、そして時々どうでもいい雑談。
+
+何かを作ったり考えたりするのが好きな方に、少しでも楽しんでもらえたら嬉しいです。
+
+AIラボの研究記事や制作物は「よこぼのAIラボ」で公開中。
+
+https://yokobo-ai-lab.vercel.app/]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>よこぼ</itunes:name>
+    <itunes:email>yokobo.ai.lab@gmail.com</itunes:email>
+  </itunes:owner>
+  <itunes:image href="https://pub-b41150828c6b4ba281393f859abc6865.r2.dev/podcast/artwork.jpg"/>
+  <itunes:category text="Technology"/>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+    <title>#40 そのモヤモヤをAIに投げつけろ！</title>
+    <description><![CDATA[<p>研究ログ 第40回目は</p><p><br></p><p>そのモヤモヤをAIに投げつけろ！</p><p><br></p><p>会社のChatGPTハンズオンセミナーにサポーターとして参加しました。AIに質問して、返ってきた答えにモヤモヤする。そこで終わってしまう人がいて、自分が当たり前だと思っていた使い方が、実は当たり前ではなかったと気づきました。</p><p><br></p><p>僕はモヤモヤしたら、そのモヤモヤをそのままAIに投げます。「それ本当にそう？」「別の視点だとどう？」と投げ返すうちに、自分でもはっきりしていなかった目的が見えてくる。検索エンジンと違って、ラフな言葉や言語化しきれていない違和感を投げてもいいし、それこそがAIの力を引き出す使い方だと思っています。</p><p><br></p><p>「しっかりしたプロンプトで伝えなきゃ」という意識と、「モヤモヤをうまく言えないから自分の中にとどめる」という壁は、たぶんつながっている。社内でAIをどう広めるか悩んでいる方のヒントになればうれしい、というお話です。</p><p><br></p><p>▼よこぼのAIラボ</p><p>AIで遊びながら、ゲーム・3D・動画・Web開発などを実験中。</p><p>日々の気づきや研究ログを発信しています。</p><p><a href="https://yokobo-ai-lab.vercel.app">https://yokobo-ai-lab.vercel.app</a></p>]]></description>
+    <pubDate>Thu, 17 Sep 2026 09:00:00 +0900</pubDate>
+    <enclosure url="https://pub-b41150828c6b4ba281393f859abc6865.r2.dev/podcast/ep040.mp3" length="8059551" type="audio/mpeg"/>
+    <guid isPermaLink="false">yokobo-lab-ep040</guid>
+    <itunes:duration>503</itunes:duration>
+    <itunes:episode>40</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>#39 とりあえず試し掘りしてみる</title>
+    <description><![CDATA[<p>研究ログ 第39回目は</p><p><br></p><p>とりあえず試し掘りしてみる</p><p><br></p><p>最近、ウェブアプリ、Blender、3Dプリンターなど、いろいろな方向に手を出しています。ひとつの道をまっすぐ掘り続けるというより、あちこち試し掘りしているような感覚です。</p><p><br></p><p>マインクラフトでは、どこにダイヤがあるかは、実際に掘ってみないとわかりません。AIや技術の進歩によって、これまで専門的で難しかったことにも挑戦しやすくなり、試し掘りのハードルは大きく下がりました。</p><p><br></p><p>仕事でも、みんなが同じ地図を見て一方向に掘り続けた結果、たどり着いた先が宝ではなくガラクタだった、ということが起こりえます。ひとつに賭けるより、いろいろな方向を試し、掘り方そのものを覚えていくほうが、今の時代は期待値が高いのではないか。教育や働き方も見直す必要があるのではないか、というお話です。</p><p><br></p><p>▼よこぼのAIラボ</p><p>AIで遊びながら、ゲーム・3D・動画・Web開発などを実験中。</p><p>日々の気づきや研究ログを発信しています。</p><p><a href="https://yokobo-ai-lab.vercel.app">https://yokobo-ai-lab.vercel.app</a></p>]]></description>
+    <pubDate>Wed, 16 Sep 2026 09:00:00 +0900</pubDate>
+    <enclosure url="https://pub-b41150828c6b4ba281393f859abc6865.r2.dev/podcast/ep039.mp3" length="9195564" type="audio/mpeg"/>
+    <guid isPermaLink="false">yokobo-lab-ep039</guid>
+    <itunes:duration>574</itunes:duration>
+    <itunes:episode>39</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>#38 その一言、まだ僕を動かしてます</title>
+    <description><![CDATA[<p>研究ログ 第38回目は</p><p><br></p><p>「その一言、まだ僕を動かしてます」</p><p><br></p><p>自分で作った「EARTH LENS」を遊んでくれた人から、「ミッションパスポート、全部クリアしたよ」と言ってもらいました。そのときは、ただただ嬉しかった。</p><p><br></p><p>でも数日たって気づいたんです。僕、まだその一言に動かされてるな、と。実際、その言葉がずっと残っていて、気づけばミッションパスポートの第2弾まで作っていました。</p><p><br></p><p>たぶん、その人は僕を動かそうとして言ったわけじゃない。ただ、自分が遊んだことを伝えてくれただけ。それなのに、その一言が別の人の数日後の行動を変えている。これ、改めて考えるとすごくないですか。</p><p><br></p><p>今回は、そんな「言葉って不思議だな」という話をしています。</p><p><br></p><p>▼EARTH LENS</p><p><a href="https://yokobo103.github.io/EARTH_LENS/">https://yokobo103.github.io/EARTH_LENS/</a></p><p><br></p><p>▼よこぼのAIラボ</p><p>AIで遊びながら、ゲーム・3D・動画・Web開発などを実験中。</p><p>日々の気づきや研究ログを発信しています。</p><p><a href="https://yokobo-ai-lab.vercel.app">https://yokobo-ai-lab.vercel.app</a></p>]]></description>
+    <pubDate>Tue, 15 Sep 2026 09:00:00 +0900</pubDate>
+    <enclosure url="https://pub-b41150828c6b4ba281393f859abc6865.r2.dev/podcast/ep038.mp3" length="7671684" type="audio/mpeg"/>
+    <guid isPermaLink="false">yokobo-lab-ep038</guid>
+    <itunes:duration>479</itunes:duration>
+    <itunes:episode>38</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>#37 Astra×Blenderで見えた、専門家のすごさ</title>
+    <description><![CDATA[<p>研究ログ 第37回目は</p><p><br></p><p>Astra×Blenderで見えた、専門家のすごさ</p><p><br></p><p>GPT-6 AstraとBlenderを組み合わせると、街や塔、恐竜など、これまで専門的な技能が必要だった3Dモデルを、AIへの指示だけで作れるようになってきました。実際にステゴサウルスや翼竜を作ってみて、その進化に驚きました。</p><p><br></p><p>でも、3Dモデルが作れたあとに「これを何に使うのか」と考えると、そこで手が止まります。ゲームで使うには重すぎるモデルを調整したり、見た目や言葉をデザインしたりするには、やはりその道を深く知る人の経験やセンスが必要です。</p><p><br></p><p>AIによって専門領域への入口は広がりました。一方で、作ったものを次にどう活かすか、何を残し、どう仕上げるかという部分では、専門家の強さがよりはっきり見えてくる。Astra×Blenderの熱を通じて、そんなことを感じたというお話です。</p><p><br></p><p>実験結果は、ラボの研究記録にもまとめてます！</p><p>「Astra✖️blenderで恐竜が動いた！」</p><p><a href="https://yokobo-ai-lab.vercel.app/read/20260914-astra-blender-dinosaur">https://yokobo-ai-lab.vercel.app/read/20260914-astra-blender-dinosaur</a></p><p><br></p><p>▼よこぼのAIラボ</p><p>AIで遊びながら、ゲーム・3D・動画・Web開発などを実験中。</p><p>日々の気づきや研究ログを発信しています。</p><p><a href="https://yokobo-ai-lab.vercel.app">https://yokobo-ai-lab.vercel.app</a></p>]]></description>
+    <pubDate>Mon, 14 Sep 2026 09:00:00 +0900</pubDate>
+    <enclosure url="https://pub-b41150828c6b4ba281393f859abc6865.r2.dev/podcast/ep037.mp3" length="8855763" type="audio/mpeg"/>
+    <guid isPermaLink="false">yokobo-lab-ep037</guid>
+    <itunes:duration>553</itunes:duration>
+    <itunes:episode>37</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>#36 暗黙知は、誰かの頭に移しただけじゃ残らない</title>
+    <description><![CDATA[<p>研究ログ 第36回目は</p><p><br></p><p>暗黙知は、誰かの頭に移しただけじゃ残らない</p><p><br></p><p>僕は医薬品の分析が本業で、分析方法を作るノウハウはベテランの頭の中にあります。昨日チームの子に質問されて、表向きの理由も装置の事情もペラペラ喋れたのに、「知っていることを全部出して」と丸投げされたら何も出てこない。そのことに気づきました。</p><p><br></p><p>暗黙知は、聞かれて引き出されたときにだけ出てくる。しかも喋った内容は相手の頭の中に入るだけで、そこでまた言語化されていない経験に戻ってしまう。移しただけでは残らないんだなと思いました。</p><p><br></p><p>だから、そばにAIがいて「今引き出されましたね」と逐一記録してくれたら、この悩みはだいぶ解決するのではないか。暗黙知を「言語化されていない経験や思考」と呼び直すと、残し方も考えやすくなるかもしれません。</p><p><br></p><p>▼よこぼのAIラボ</p><p>AIで遊びながら、ゲーム・3D・動画・Web開発などを実験中。</p><p>日々の気づきや研究ログを発信しています。</p><p><a href="https://yokobo-ai-lab.vercel.app">https://yokobo-ai-lab.vercel.app</a></p>]]></description>
+    <pubDate>Sat, 12 Sep 2026 09:00:00 +0900</pubDate>
+    <enclosure url="https://pub-b41150828c6b4ba281393f859abc6865.r2.dev/podcast/ep036.mp3" length="7659564" type="audio/mpeg"/>
+    <guid isPermaLink="false">yokobo-lab-ep036</guid>
+    <itunes:duration>478</itunes:duration>
+    <itunes:episode>36</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>#35 子供の頃の好きは、まだ地層に埋まっている</title>
+    <description><![CDATA[<p>研究ログ 第35回目は</p><p><br></p><p>子供の頃の好きは、まだ地層に埋まっている</p><p><br></p><p>5歳の息子が恐竜に夢中になったことをきっかけに、自分も子供の頃、恐竜が大好きだったことを思い出しました。大人になって興味を失ったと思っていたものが、実は心の中に地層のように残っていたようです。</p><p><br></p><p>最近作っている「DEEP LENS」や、恐竜の骨を発掘する子ども向けアプリも、恐竜をテーマにすると自然と制作が進みました。子供の頃に好きだったものは、懐かしい記憶であるだけでなく、今の自分を動かすエネルギーにもなるのかもしれません。</p><p><br></p><p>ゲームやミニチュア、粘土など、昔好きだったものを思い返してみる。大人になった今だからこそ、別の形で、もっと自由に遊び直せるかもしれません。たまには自分の「子供の頃の地層」を掘り返してみよう、というお話です。</p><p><br></p><p>▼DEEP LENS</p><p><a href="https://yokobo103.github.io/deep_lens/">https://yokobo103.github.io/deep_lens/</a></p><p><br></p><p>▼よこぼのAIラボ</p><p>AIで遊びながら、ゲーム・3D・動画・Web開発などを実験中。</p><p>日々の気づきや研究ログを発信しています。</p><p><a href="https://yokobo-ai-lab.vercel.app">https://yokobo-ai-lab.vercel.app</a></p>]]></description>
+    <pubDate>Fri, 11 Sep 2026 09:00:00 +0900</pubDate>
+    <enclosure url="https://pub-b41150828c6b4ba281393f859abc6865.r2.dev/podcast/ep035.mp3" length="8596210" type="audio/mpeg"/>
+    <guid isPermaLink="false">yokobo-lab-ep035</guid>
+    <itunes:duration>537</itunes:duration>
+    <itunes:episode>35</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>#34 AIとトライ！ 人に任せる練習！</title>
+    <description><![CDATA[<p>研究ログ 第34回目は</p><p><br></p><p>AIとトライ！ 人に任せる練習！</p><p><br></p><p>人に何かを任せるのが苦手で、自分で抱え込んでしまう。そんな自分が、AIにコードや文章、アイデアを任せて遊ぶうちに、少しずつ人にお願いすることへのハードルも下がってきました。</p><p><br></p><p>AIは、雑に頼んでも、何度説明しても、失敗しても関係が壊れにくい。何を任せ、何を自分で考えるかを整理したり、苦手なことを得意な人に頼ったりする練習相手として、とても優秀なのではないかと思います。</p><p><br></p><p>もちろん、人間相手には気をつけることもあります。それでも、任せて失敗することも含めて経験を重ねることで、少しずつ任せる力は身につけられる。AIを使って「人に任せる練習」をしてみよう、というお話です。</p><p><br></p><p>▼よこぼのAIラボ</p><p>AIで遊びながら、ゲーム・3D・動画・Web開発などを実験中。</p><p>日々の気づきや研究ログを発信しています。</p><p><a href="https://yokobo-ai-lab.vercel.app">https://yokobo-ai-lab.vercel.app</a></p>]]></description>
+    <pubDate>Thu, 10 Sep 2026 09:00:00 +0900</pubDate>
+    <enclosure url="https://pub-b41150828c6b4ba281393f859abc6865.r2.dev/podcast/ep034.mp3" length="8566117" type="audio/mpeg"/>
+    <guid isPermaLink="false">yokobo-lab-ep034</guid>
+    <itunes:duration>535</itunes:duration>
+    <itunes:episode>34</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>#33 テキトーに作ってたら、ユーザー体験にたどり着いた</title>
+    <description><![CDATA[<p>研究ログ 第33回目は</p><p><br></p><p>テキトーに作ってたら、ユーザー体験にたどり着いた</p><p><br></p><p>趣味でウェブアプリを作り始めたときは、「なんとなく面白そう」という気持ちだけで、あまり大きな目標を決めていませんでした。</p><p><br></p><p>ところが、作っているうちに「使う人にどう感じてほしいか」「使った人に何が起きてほしいか」を自然と考えるようになり、それが機能や画面を決める判断基準になっていきました。</p><p><br></p><p>地政学を学ぶために作った「EARTH LENS」では、情報を詰め込みすぎず、新しい発見が生まれる体験を目指すようになりました。子ども向けの「なぞって！きょうりゅうはっくつたい」では、骨の正体を最初から明かさず、何ができるのかを想像するワクワクを残そうとしています。</p><p><br></p><p>最初からユーザー体験を設計していたわけではなくても、違和感を手がかりに作り直していくうちに、使う人の体験を考えるようになる。AIと一緒にものづくりをすることで、そのサイクルを短く回せるようになった、というお話です。</p><p><br></p><p>▼EARTH LENS</p><p><a href="https://yokobo103.github.io/EARTH_LENS/">https://yokobo103.github.io/EARTH_LENS/</a></p><p><br></p><p>▼よこぼの なぞって！きょうりゅうはっくつたい</p><p><a href="https://yokobo103.github.io/nazotte_dinosaur/">https://yokobo103.github.io/nazotte_dinosaur/</a></p><p><br></p><p>▼よこぼのAIラボ</p><p>AIで遊びながら、ゲーム・3D・動画・Web開発などを実験中。</p><p>日々の気づきや研究ログを発信しています。</p><p><a href="https://yokobo-ai-lab.vercel.app">https://yokobo-ai-lab.vercel.app</a></p>]]></description>
+    <pubDate>Wed, 09 Sep 2026 09:00:00 +0900</pubDate>
+    <enclosure url="https://pub-b41150828c6b4ba281393f859abc6865.r2.dev/podcast/ep033.mp3" length="7972197" type="audio/mpeg"/>
+    <guid isPermaLink="false">yokobo-lab-ep033</guid>
+    <itunes:duration>498</itunes:duration>
+    <itunes:episode>33</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>#32 僕は「一回で覚えろアンチ」です</title>
+    <description><![CDATA[<p>研究ログ 第32回目は</p><p><br></p><p>僕は「一回で覚えろアンチ」です</p><p><br></p><p>突然ですが、クイズです。</p><p>「100mLの水を1回で使うのと、50mLずつ2回に分けて使うのでは、どちらがよく洗えるでしょうか？」</p><p><br></p><p>今日は、この問いを入口に、勉強や学習も一度で全部やろうとせず、何周かに分けて理解を深めていくほうがよいのではないか、という話をします。</p><p><br></p><p>参考書を最初からじっくり読み込むより、まず全体を一周してから、気になったところを読み返す。そうやって、理解は螺旋階段のように少しずつ深まっていくのではないかと思います。</p><p><br></p><p>「一回で覚えろ」と言われても、普通は一回では覚えられません。最初から一度で完璧に理解しようとせず、まず全体をさらい、もう一周、もう一周と重ねていく。勉強やスキルアップを、もっと気楽に続けるための考え方についてのお話です。</p><p><br></p><p>▼よこぼのAIラボ</p><p>AIで遊びながら、ゲーム・3D・動画・Web開発などを実験中。</p><p>日々の気づきや研究ログを発信しています。</p><p><a href="https://yokobo-ai-lab.vercel.app">https://yokobo-ai-lab.vercel.app</a></p>]]></description>
+    <pubDate>Tue, 08 Sep 2026 09:00:00 +0900</pubDate>
+    <enclosure url="https://pub-b41150828c6b4ba281393f859abc6865.r2.dev/podcast/ep032.mp3" length="8167384" type="audio/mpeg"/>
+    <guid isPermaLink="false">yokobo-lab-ep032</guid>
+    <itunes:duration>510</itunes:duration>
+    <itunes:episode>32</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>#31 AIは人間のことなんて何も考えてない</title>
+    <description><![CDATA[<p>研究ログ 第31回目は</p><p><br></p><p>AIは人間のことなんて何も考えてない</p><p><br></p><p>AIの出した文章を見て、長い、読めない、と感じたことはありませんか。彼らは、人間が1秒でA4一枚を読めると思っているんじゃないか。最近そう感じています。</p><p><br></p><p>きっかけは、いま作っているアプリです。画面いっぱいに情報を詰め込んでくる。本当にユーザーが読むと思っているのか、どこを見ればいいのか、と何度もやりとりしました。それでも減りません。ただ、繰り返すうちに、自分にとってどこが残したかった情報なのかが見えてきたのは、面白いところでした。</p><p><br></p><p>UIは、削ることで初めて次の一歩が見えるようにできています。AIは引き算が苦手で、足すほうへ行く。どこをどう削れば人間が迷わず前に進めるかを決めて伝えるのは、いまのところ人間の役割なんだと思います。</p><p><br></p><p>▼よこぼのAIラボ</p><p>AIで遊びながら、ゲーム・3D・動画・Web開発などを実験中。</p><p>日々の気づきや研究ログを発信しています。</p><p><a href="https://yokobo-ai-lab.vercel.app">https://yokobo-ai-lab.vercel.app</a></p>]]></description>
+    <pubDate>Mon, 07 Sep 2026 09:00:00 +0900</pubDate>
+    <enclosure url="https://pub-b41150828c6b4ba281393f859abc6865.r2.dev/podcast/ep031.mp3" length="7704703" type="audio/mpeg"/>
+    <guid isPermaLink="false">yokobo-lab-ep031</guid>
+    <itunes:duration>481</itunes:duration>
+    <itunes:episode>31</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>#30 コメンテーターの育て方</title>
+    <description><![CDATA[<p>研究ログ 第30回目は</p><p><br></p><p>コメンテーターの育て方</p><p><br></p><p>コメントはするけれど、自分では動かさず、リーダーシップも取らない「コメンテーター」。一見すると本人の性格の問題に思えますが、実は組織の構造がそういう人を育てているのではないか、と考えます。</p><p><br></p><p>問題を見つけて声を上げた人へ、そのまま仕事が押しつけられる。負担が増えても評価されず、協力者や権限も得られない。そんな環境では、深入りせずに外からコメントすることが、最も安全でコスパのよい働き方になります。</p><p><br></p><p>コメンテーター本人を批判するのではなく、なぜその行動が合理的になるのかを考える。自分がコメンテーターにならず、周囲にも育てないために、組織の仕組みから見直す必要があるのではないか、というお話です。</p><p><br></p><p>▼よこぼのAIラボ</p><p>AIで遊びながら、ゲーム・3D・動画・Web開発などを実験中。</p><p>日々の気づきや研究ログを発信しています。</p><p><a href="https://yokobo-ai-lab.vercel.app">https://yokobo-ai-lab.vercel.app</a></p>]]></description>
+    <pubDate>Fri, 04 Sep 2026 09:00:00 +0900</pubDate>
+    <enclosure url="https://pub-b41150828c6b4ba281393f859abc6865.r2.dev/podcast/ep030.mp3" length="7090303" type="audio/mpeg"/>
+    <guid isPermaLink="false">yokobo-lab-ep030</guid>
+    <itunes:duration>443</itunes:duration>
+    <itunes:episode>30</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>#29 AIを使いこなす鍵は「縛りプレイ」</title>
+    <description><![CDATA[<p>研究ログ 第29回目は</p><p><br></p><p>AIを使いこなす鍵は「縛りプレイ」</p><p><br></p><p>仕事で物品発注を楽にする方法をAIと考えていたとき、既存のExcelは変えにくい、全員がモバイル端末を持っているわけではない、といった環境の制限を伝えることが重要だと気づきました。</p><p><br></p><p>ゲームの縛りプレイでは、目的は「魔王を倒すこと」、縛りは「弱い装備しか使えないこと」です。本当の目的を「次の街へ行くこと」のような手前の作業に置いてしまうと、AIの力を小さな問題へ使い切ってしまいます。</p><p><br></p><p>ゴールは明確に、できるだけ遠くへ置く。現実の縛りは正確に伝える。そのうえで攻略ルートをAIと一緒に考え、試行錯誤することが、AIを使いこなす鍵なのではないか、というお話です。</p><p><br></p><p>▼よこぼのAIラボ</p><p>AIで遊びながら、ゲーム・3D・動画・Web開発などを実験中。</p><p>日々の気づきや研究ログを発信しています。</p><p><a href="https://yokobo-ai-lab.vercel.app">https://yokobo-ai-lab.vercel.app</a></p>]]></description>
+    <pubDate>Thu, 03 Sep 2026 09:00:00 +0900</pubDate>
+    <enclosure url="https://pub-b41150828c6b4ba281393f859abc6865.r2.dev/podcast/ep029.mp3" length="7519129" type="audio/mpeg"/>
+    <guid isPermaLink="false">yokobo-lab-ep029</guid>
+    <itunes:duration>469</itunes:duration>
+    <itunes:episode>29</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>#28 学びがオーダーメイドになる時代</title>
+    <description><![CDATA[<p>研究ログ 第28回目は</p><p><br></p><p>学びがオーダーメイドになる時代</p><p><br></p><p>地政学をもっと目で見て学びたくなり、地球をさまざまな観点から眺められる自分専用のWebアプリをAIと作りました。欲しい教材がなければ、自分で作れてしまう時代です。</p><p><br></p><p>生成AIなら、図解、対話、クイズ、表、インタラクティブなアプリなど、自分が理解しやすい形へ教材そのものを作り替えられます。すでに学びは、用意された教科書を読むものから、一人ひとりに合わせるものへ変わり始めています。</p><p><br></p><p>学びたい内容を、学びやすい形で受け取る。そんなオーダーメイドの学習方法を知っているか、実際に使えるかによって、これから大きな差が生まれるかもしれない、というお話です。</p><p><br></p><p>▼今回作った学習アプリ「EARTH LENS」</p><p><a href="https://yokobo103.github.io/EARTH_LENS/">https://yokobo103.github.io/EARTH_LENS/</a></p><p><br></p><p>▼よこぼのAIラボ</p><p>AIで遊びながら、ゲーム・3D・動画・Web開発などを実験中。</p><p>日々の気づきや研究ログを発信しています。</p><p><a href="https://yokobo-ai-lab.vercel.app">https://yokobo-ai-lab.vercel.app</a></p>]]></description>
+    <pubDate>Wed, 02 Sep 2026 09:00:00 +0900</pubDate>
+    <enclosure url="https://pub-b41150828c6b4ba281393f859abc6865.r2.dev/podcast/ep028.mp3" length="8080031" type="audio/mpeg"/>
+    <guid isPermaLink="false">yokobo-lab-ep028</guid>
+    <itunes:duration>504</itunes:duration>
+    <itunes:episode>28</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>#27 ちゃんと作るのをやめたら、うまく流れ始めた</title>
+    <description><![CDATA[<p>研究ログ 第27回目は</p><p><br></p><p>ちゃんと作るのをやめたら、うまく流れ始めた</p><p><br></p><p>この番組、もともとは原稿を作って流れを決めてから録っていました。それをやめて、簡単なメモだけ見ながら、ほとんど考えながら喋っています。そうしたら全体がうまく回りはじめた、という話です。</p><p><br></p><p>もとの流れはこうでした。会社で社内向けのメルマガをほぼ毎日書いていて、それが駆動の中心。GPTと何度も壁打ちして書いて、さらに喋れるように作り替えて、第14回あたりまではそれを見ながら録っていました。同じネタを、形式ごとに何度も加工し直していたわけです。いまは逆にして、先に喋る。喋りながら自分でも思いもよらなかった発言が出てくるのが面白くて、それをメルマガやnoteに加工してもらっています。</p><p><br></p><p>気づいたのは、駆動モーターの位置を変えるだけで流れ出すことがある、ということです。同じ内容を何度も加工することに時間をかけるより、考える密度にかけたほうがいい。AIと組むときに、自分がどこに介入すれば一番うまく回るのかを、全体図を見ながら探す。そういう話でした。</p><p><br></p><p>▼よこぼのAIラボ</p><p>AIで遊びながら、ゲーム・3D・動画・Web開発などを実験中。</p><p>日々の気づきや研究ログを発信しています。</p><p><a href="https://yokobo-ai-lab.vercel.app">https://yokobo-ai-lab.vercel.app</a></p>]]></description>
+    <pubDate>Tue, 01 Sep 2026 09:00:00 +0900</pubDate>
+    <enclosure url="https://pub-b41150828c6b4ba281393f859abc6865.r2.dev/podcast/ep027.mp3" length="7842630" type="audio/mpeg"/>
+    <guid isPermaLink="false">yokobo-lab-ep027</guid>
+    <itunes:duration>490</itunes:duration>
+    <itunes:episode>27</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>#26 トトロの見える世界、見えない世界</title>
+    <description><![CDATA[<p>研究ログ 第26回目は</p><p><br></p><p>トトロの見える世界、見えない世界</p><p><br></p><p>久しぶりに息子と『となりのトトロ』を見たところ、子どものころには気づかなかった細部や、自分が親になったからこそ分かる場面がたくさんありました。同じ作品なのに、以前とはまるで違う世界が見えます。</p><p><br></p><p>経験や知識が増えれば、物事をいろいろな角度から見られるようになります。ただし、見えるものが増えすぎると、本来楽しみたかったものを邪魔するノイズになることもある。知っているほうが世界は豊かなのか、知らないほうが楽しめるのかを考えます。</p><p><br></p><p>同じ人間が同じ作品を見ても、年齢や立場によって見える世界は変わる。トトロを通じて、誰もがそれぞれ異なる世界を見ながら生きていることを実感した、というお話です。</p><p><br></p><p>▼よこぼのAIラボ</p><p>AIで遊びながら、ゲーム・3D・動画・Web開発などを実験中。</p><p>日々の気づきや研究ログを発信しています。</p><p><a href="https://yokobo-ai-lab.vercel.app">https://yokobo-ai-lab.vercel.app</a></p>]]></description>
+    <pubDate>Mon, 31 Aug 2026 09:00:00 +0900</pubDate>
+    <enclosure url="https://pub-b41150828c6b4ba281393f859abc6865.r2.dev/podcast/ep026.mp3" length="7991423" type="audio/mpeg"/>
+    <guid isPermaLink="false">yokobo-lab-ep026</guid>
+    <itunes:duration>499</itunes:duration>
+    <itunes:episode>26</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>#25 か弱いロボットと「健気の山」</title>
+    <description><![CDATA[<p>研究ログ 第25回目は</p><p><br></p><p>か弱いロボットと「健気の山」</p><p><br></p><p>世界人型ロボット運動会で、小さなロボットが懸命に100mを走る動画が話題になりました。速いわけではないのに、なぜ「頑張れ」「助けてあげたい」と心を動かされるのかを考えます。</p><p><br></p><p>鍵になりそうなのは、ロボットの「ゴールしたい」という意図と、一生懸命さをこちらが読み取れること。ふらつきながら走り、ほかのロボットに置いていかれても進み続ける姿が、健気さを生んでいるのかもしれません。</p><p><br></p><p>そこから、不気味の谷と対になる「健気の山」があるのではないか、という仮説へ。誰かの目的を助けたくなる感覚は、人間が助け合ってきた本能ともつながっているのではないか、というところまで話が広がりました。</p><p><br></p><p>▼よこぼのAIラボ</p><p>AIで遊びながら、ゲーム・3D・動画・Web開発などを実験中。</p><p>日々の気づきや研究ログを発信しています。</p><p><a href="https://yokobo-ai-lab.vercel.app">https://yokobo-ai-lab.vercel.app</a></p>]]></description>
+    <pubDate>Fri, 28 Aug 2026 09:00:00 +0900</pubDate>
+    <enclosure url="https://pub-b41150828c6b4ba281393f859abc6865.r2.dev/podcast/ep025.mp3" length="8555250" type="audio/mpeg"/>
+    <guid isPermaLink="false">yokobo-lab-ep025</guid>
+    <itunes:duration>534</itunes:duration>
+    <itunes:episode>25</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>#24 AI時代、仕事ができる人より『仕事を作れる人』が強くなる？</title>
+    <description><![CDATA[<p>研究ログ 第24回目は</p><p><br></p><p>AI時代、仕事ができる人より『仕事を作れる人』が強くなる？</p><p><br></p><p>きっかけは、AIエージェントを2台回しはじめたことです。GPTとClaude、両方に仕事を頼めるようになって、最初はとにかくはかどりました。あんなこともできる、こんなこともできる、と。</p><p><br></p><p>ところがだんだん、AI側が仕事待ちになりました。頼んだ作業はもう終わっています、という顔でずっと待っている。ボトルネックは完全にこちらの指示でした。しかもクレジットは使い切りたい。次は何を頼もう、で頭がいっぱいになって、それ以外の考え事ができなくなる。思考資源をエージェントに奪われた状態だったな、と今は思います。</p><p><br></p><p>エージェントが速くなるほど、指示を出す側、仕事を作る側がボトルネックになっていく。だとすると、次に何をするか、どこをもっと良くできるか、これができたら楽しそうだ、というものを絶えず生み出すことのほうが、これから重要になるのかもしれません。思考資源は有限なので、AIに振り回されずにそこを鍛えたい、という話です。</p><p><br></p><p>▼よこぼのAIラボ</p><p>AIで遊びながら、ゲーム・3D・動画・Web開発などを実験中。</p><p>日々の気づきや研究ログを発信しています。</p><p><a href="https://yokobo-ai-lab.vercel.app">https://yokobo-ai-lab.vercel.app</a></p>]]></description>
+    <pubDate>Wed, 26 Aug 2026 09:00:00 +0900</pubDate>
+    <enclosure url="https://pub-b41150828c6b4ba281393f859abc6865.r2.dev/podcast/ep024.mp3" length="7576390" type="audio/mpeg"/>
+    <guid isPermaLink="false">yokobo-lab-ep024</guid>
+    <itunes:duration>473</itunes:duration>
+    <itunes:episode>24</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>#23 AI時代の「すごい」はどうなる？</title>
+    <description><![CDATA[<p>研究ログ 第23回目は</p><p><br></p><p>「AI時代の『すごい』はどうなる？」</p><p><br></p><p>AIで作られた絵やデザインを見て、「これすごいな」と思う。ところが、あとからAI製だと知ると、なぜか少しがっかりする。あの感覚はいったい何なんだろう、という話です。</p><p><br></p><p>「すごい」と思うときには、自分にはできなさそうな技術や発想、かかった手間への想像があるのかもしれません。でもAIが裏にいたと知ると、作った人との距離感が急にわからなくなる。「自分にもできそう」と感じてしまうことがあるのではないかと思いました。</p><p><br></p><p>一方で、AIを使う側になると、見え方は少し変わります。こういうものを作るには、どんなプロンプトを工夫したんだろう。どんな素材を入れて、どう制御したんだろう。AIが作ったと知っても、別の「すごい」が見えてくることがあります。</p><p><br></p><p>AI時代に、人間の「すごい」はどこへ行くのか。まだ答えは出ていませんが、この感覚をもう少し研究してみたいと思っています。</p><p><br></p><p>▼よこぼのAIラボ</p><p>AIで遊びながら、ゲーム・3D・動画・Web開発などを実験中。</p><p>日々の気づきや研究ログを発信しています。</p><p><a href="https://yokobo-ai-lab.vercel.app">https://yokobo-ai-lab.vercel.app</a></p>]]></description>
+    <pubDate>Tue, 25 Aug 2026 09:00:00 +0900</pubDate>
+    <enclosure url="https://pub-b41150828c6b4ba281393f859abc6865.r2.dev/podcast/ep023.mp3" length="6839110" type="audio/mpeg"/>
+    <guid isPermaLink="false">yokobo-lab-ep023</guid>
+    <itunes:duration>427</itunes:duration>
+    <itunes:episode>23</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>#22 制約作りはクリエイティブ！</title>
+    <description><![CDATA[<p>研究ログ 第22回目は</p><p><br></p><p>制約作りはクリエイティブ！</p><p><br></p><p>前回に続いて、2Dの横スクロールゲームを作っていて気づいたことです。制約というと、ここまでしかできない、というネガティブな響きがあります。でも作る側にまわってみると、まるで印象が違いました。</p><p><br></p><p>いま作っているゲームは、横移動とジャンプだけ。攻撃はできません。スマホで遊べるようにしたいので、操作は増やさない。そう決めてしまうと、その中でどう面白くするかを考えはじめます。何でもしていいとなると、かえって何も進まない。創造性は、制約をどう設定するかのほうにあるのかもしれません。</p><p><br></p><p>前回のストーリーの話ともつながります。制約はばらばらだとだめで、泳ぎは得意だけれど水の抵抗で遅くなる、空では風が強い、というように、世界観があってこそ揃う。AIも同じで、手元のパソコンでは動画が5秒しか作れません。その5秒をどうつなぐかを考えるほうが、面白い。</p><p><br></p><p>▼よこぼのAIラボ</p><p>AIで遊びながら、ゲーム・3D・動画・Web開発などを実験中。</p><p>日々の気づきや研究ログを発信しています。</p><p><a href="https://yokobo-ai-lab.vercel.app">https://yokobo-ai-lab.vercel.app</a></p>]]></description>
+    <pubDate>Mon, 24 Aug 2026 09:00:00 +0900</pubDate>
+    <enclosure url="https://pub-b41150828c6b4ba281393f859abc6865.r2.dev/podcast/ep022.mp3" length="7527071" type="audio/mpeg"/>
+    <guid isPermaLink="false">yokobo-lab-ep022</guid>
+    <itunes:duration>470</itunes:duration>
+    <itunes:episode>22</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>#21 「ストーリー」は、次に何をするかを決める装置なのかもしれない</title>
+    <description><![CDATA[<p>研究ログ 第21回目は</p><p><br></p><p>「ストーリー」は、次に何をするかを決める装置なのかもしれない</p><p><br></p><p>いま2Dスクロールゲームを作っています。敵もボスもステージのギミックも、一つずつ作るのは楽しい。でも全体のストーリーが決まっていなくて、そこで詰まりました。</p><p><br></p><p>困るのは「どこに何を置くか」です。取りにくい場所に重要なアイテムを置く。ではそれは何なのか、主人公にとってどういう意味を持つのか。考えると全部ストーリーの話でした。ストーリーがないと、敵もアイテムもどこに置いてもよくなってしまう。自由すぎて、逆に何も定まらない。遊ぶ側のためのものだと思っていましたが、作る側にこそ要るものでした。</p><p><br></p><p>おまけですが、会社のビジョンや理念も似た話かもしれません。どういう世界の中で、次に何を成し遂げていくのか。それがあるから、次の行動が決まる。</p><p><br></p><p>▼よこぼのAIラボ</p><p>AIで遊びながら、ゲーム・3D・動画・Web開発などを実験中。</p><p>日々の気づきや研究ログを発信しています。</p><p><a href="https://yokobo-ai-lab.vercel.app">https://yokobo-ai-lab.vercel.app</a></p>]]></description>
+    <pubDate>Fri, 21 Aug 2026 09:00:00 +0900</pubDate>
+    <enclosure url="https://pub-b41150828c6b4ba281393f859abc6865.r2.dev/podcast/ep021.mp3" length="8373438" type="audio/mpeg"/>
+    <guid isPermaLink="false">yokobo-lab-ep021</guid>
+    <itunes:duration>523</itunes:duration>
+    <itunes:episode>21</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>#20 「話が飛ぶ」って、AIにはないヒトの価値かも</title>
+    <description><![CDATA[<p>研究ログ 第20回目は</p><p><br></p><p>「話が飛ぶ」って、AIにはないヒトの価値かも</p><p><br></p><p>きっかけは、所属しているコミュニティの人との会話でした。何かを考えるとき、まったく関係ない情報が効くことがある。でも生成AIは入力に関連することを返してくるので、自分が持っている世界の外には出にくいよね、という話です。</p><p><br></p><p>言われてみればそのとおりなのですが、少し引っかかりました。生成AIは人類の英知が詰まった、自分より圧倒的に物知りな存在のはずです。それなのに、身近な人間と話すほうが思考が広がることがある。不思議だなと思いました。</p><p><br></p><p>鍵は「話が飛ぶ」ことかもしれません。人と話していると「そういえばさ」から、考えてもいなかった話が出てくる。ハルシネーションの話をしていたはずが、キャンプになって、そこから柳生宗矩が出てくる。AIとの会話では絶対に出てこない言葉です。</p><p><br></p><p>毎日ChatGPTと壁打ちをしていますが、あれは自分の考えを整理してつなげるのに向いています。外に広げるには、人と話すことが要る。ではAIに話を飛ばさせることはできないのか。温度を上げれば確率の低いものを拾ってきますが、それだと支離滅裂になる。人間の絶妙な飛び方とは違う気がします。ここはこれから実験してみたいところです。</p><p><br></p><p>▼よこぼのAIラボ</p><p>AIで遊びながら、ゲーム・3D・動画・Web開発などを実験中。</p><p>日々の気づきや研究ログを発信しています。</p><p><a href="https://yokobo-ai-lab.vercel.app">https://yokobo-ai-lab.vercel.app</a></p>]]></description>
+    <pubDate>Thu, 20 Aug 2026 09:00:00 +0900</pubDate>
+    <enclosure url="https://pub-b41150828c6b4ba281393f859abc6865.r2.dev/podcast/ep020.mp3" length="6870457" type="audio/mpeg"/>
+    <guid isPermaLink="false">yokobo-lab-ep020</guid>
+    <itunes:duration>429</itunes:duration>
+    <itunes:episode>20</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>#19 そつなくこなすって本当に優秀？</title>
+    <description><![CDATA[<p>研究ログ 第19回目は</p><p><br></p><p>「そつなくこなすって本当に優秀？」</p><p><br></p><p>前回の「AIに完成させない方がうまくいくことがある」から続く話です。完成原稿ではなくストーリー案を3つ出してもらい、着手前に議論する。そのほうがうまくいった、という回でした。</p><p><br></p><p>これ、人間の仕事でも同じではないかと思ったのがきっかけです。チームの目標に「指摘率を下げる」というものがあって、それを話しているときに、あれ、ちょっと違うな、という違和感がありました。</p><p><br></p><p>指摘には2種類あります。ミスや抜け漏れは、もちろん減らしたい。でも議論すべき論点は、逆に見えるようにしたい。そつなくこなすというのは、その引っかかりごと全部まとめて、つるっとしたものにしてしまうことかもしれません。</p><p><br></p><p>何かを作る仕事なら、クライアントの言語化されていない違和感は後から出てきます。完成品を出してから言われると困る。だとすれば、指摘率を下げることより、議論すべき点を早く見えるようにするほうが、いい仕事なんじゃないか。そんな話です。</p><p><br></p><p>▼よこぼのAIラボ</p><p>AIで遊びながら、ゲーム・3D・動画・Web開発などを実験中。</p><p>日々の気づきや研究ログを発信しています。</p><p><a href="https://yokobo-ai-lab.vercel.app">https://yokobo-ai-lab.vercel.app</a></p>]]></description>
+    <pubDate>Wed, 19 Aug 2026 09:00:00 +0900</pubDate>
+    <enclosure url="https://pub-b41150828c6b4ba281393f859abc6865.r2.dev/podcast/ep019.mp3" length="6952377" type="audio/mpeg"/>
+    <guid isPermaLink="false">yokobo-lab-ep019</guid>
+    <itunes:duration>434</itunes:duration>
+    <itunes:episode>19</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>#18 AIに完成させない方がうまくいくことがある</title>
+    <description><![CDATA[<p>研究ログ 第18回目は</p><p><br></p><p>「AIに完成させない方がうまくいくことがある」</p><p><br></p><p>「よこぼのAIラボ」のサイトに載せている研究ログの記事は、AIエージェントに書いてもらっています。ラボにはDr.よこぼ、ニャビットという2人のキャラクターがいますが、それぞれの性格に合った文体で書いてくれます。</p><p><br></p><p>ただ、困っていたことがありました。完成原稿を持ってきてもらっても「なんか違う」となって、結局そのまま没にしてしまう。せっかく実験したのに世に出せないのがフラストレーションでした。</p><p><br></p><p>そこで、完成品を待つのをやめました。先に大まかなストーリー案を3つ出してもらい、その段階で自分が入って議論し、方向を決めてから書いてもらう。</p><p><br></p><p>発見は2つ。早い段階で介入したほうがトータルコストが安く、満足度も高かったこと。そして3案あること自体が効いていて、比較するものがないと「こうしたい」は言語化できないと気づいたことです。</p><p><br></p><p>▼よこぼのAIラボ</p><p>AIで遊びながら、ゲーム・3D・動画・Web開発などを実験中。</p><p>日々の気づきや研究ログを発信しています。</p><p><a href="https://yokobo-ai-lab.vercel.app">https://yokobo-ai-lab.vercel.app</a></p>]]></description>
+    <pubDate>Tue, 18 Aug 2026 09:00:00 +0900</pubDate>
+    <enclosure url="https://pub-b41150828c6b4ba281393f859abc6865.r2.dev/podcast/ep018.mp3" length="7824657" type="audio/mpeg"/>
+    <guid isPermaLink="false">yokobo-lab-ep018</guid>
+    <itunes:duration>488</itunes:duration>
+    <itunes:episode>18</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>#17 AIエージェント時代に重要なのはパイプラインという概念だ！</title>
+    <description><![CDATA[<p>研究ログ 第17回目は</p><p><br></p><p>「AIエージェント時代に重要なのはパイプラインという概念だ！」</p><p><br></p><p>最近、3Dモデル制作や動画制作など、AIを組み込んだ「パイプライン」を作ることが増えてきました。</p><p><br></p><p>パイプラインとは、簡単に言えば「複数の作業をつないで、一連の流れにしたもの」。</p><p><br></p><p>AIに一つひとつ指示するのではなく、仕事の流れそのものを設計して、まとまった作業をエージェントに任せる。</p><p><br></p><p>AIがどんどん自律的に動けるようになる今、「AIに何をさせるか」だけでなく「AIが動ける流れをどう作るか」が重要になるんじゃないか。</p><p><br></p><p>最近、自分の“遊ぶための工場”に制作ラインを増やしながら感じていることをお話ししました。</p><p><br></p><p>▼よこぼのAIラボ </p><p>AIで遊びながら、ゲーム・3D・動画・Web開発などを実験中。 日々の気づきや研究ログを発信しています。 https://yokobo-ai-lab.vercel.app</p>
+]]></description>
+    <pubDate>Mon, 27 Jul 2026 23:07:45 +0000</pubDate>
+    <enclosure url="https://pub-b41150828c6b4ba281393f859abc6865.r2.dev/podcast/ep017.m4a" length="5213300" type="audio/x-m4a"/>
+    <guid isPermaLink="false">3aa9d7f7-fd97-472c-b351-9424bc7df82c</guid>
+    <itunes:duration>322</itunes:duration>
+    <itunes:episode>17</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>#16 カメラの外に世界はある</title>
+    <description><![CDATA[<p>第16回のテーマは「カメラの外に世界はある」。</p><p><br></p><p>よこぼのAIラボのサイトを大幅に改修する中で感じたのは、世界観は情報を足せば足すほど伝わるわけではない、ということでした。</p><p><br></p><p>キャラクター設定、研究所の説明、ページの役割。</p><p>いろいろ説明したくなる一方で、詰め込みすぎると見る人の想像する余白がなくなり、かえって世界が狭く感じてしまう。</p><p><br></p><p>ドラマ『VIVANT』を見ながら感じた「カメラの外で何かが起きていそう」という感覚とも重ねながら、AIで世界観を作るときに大切な“余白の設計”について話しました。</p><p><br></p><p>▼よこぼのAIラボ </p><p>AIで遊びながら、ゲーム・3D・動画・Web開発などを実験中。 日々の気づきや研究ログを発信しています。 </p><p>https://yokobo-ai-lab.vercel.app</p>
+]]></description>
+    <pubDate>Thu, 09 Jul 2026 23:15:55 +0000</pubDate>
+    <enclosure url="https://pub-b41150828c6b4ba281393f859abc6865.r2.dev/podcast/ep016.m4a" length="7940113" type="audio/x-m4a"/>
+    <guid isPermaLink="false">4dc53fbe-4cd4-4f4a-b7b8-b7831e625c0d</guid>
+    <itunes:duration>490</itunes:duration>
+    <itunes:episode>16</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>#15 GPTとClaude、どっちも使ったら楽しすぎた！</title>
+    <description><![CDATA[<p>研究ログ第15回目は、「GPTとClaude、どっちも使ったら楽しすぎた」というテーマで話しました。</p><p><br></p><p>最近、GPTに加えてClaudeも使い始めて感じたのは、「どっちが賢いか？」という単純な比較ではなく、モデルごとにかなり役割や癖が違うということです。</p><p><br></p><p>GPTは、こちらが進みたい道を伝えると、その道を整えてくれるような存在。整理したり、手順にしたり、実装に落としたりする力が強い。</p><p><br></p><p>一方でClaudeは、少し斜めから「本当にその道でいいの？」と横やりを入れてくるような存在。素直に寄り添うというより、別の視点から考え直すきっかけをくれるところが面白いと感じました。</p><p><br></p><p>今回は、GPTとClaudeを両方使うことで、自分の考え方や進め方がどう変わったのか、そしてAIを「正解を出す機械」ではなく「癖の違う壁打ち相手」として使う面白さについて話しています。</p><p><br></p><p>▼よこぼのAIラボ </p><p>AIで遊びながら、ゲーム・3D・動画・Web開発などを実験中。 日々の気づきや研究ログを発信しています。 https://yokobo-ai-lab.vercel.app</p>
+]]></description>
+    <pubDate>Fri, 03 Jul 2026 03:23:17 +0000</pubDate>
+    <enclosure url="https://pub-b41150828c6b4ba281393f859abc6865.r2.dev/podcast/ep015.m4a" length="8163669" type="audio/x-m4a"/>
+    <guid isPermaLink="false">a40c5800-7af1-42a2-b57d-8e567ff40fac</guid>
+    <itunes:duration>504</itunes:duration>
+    <itunes:episode>15</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>#14 削るのが怖いGPT</title>
+    <description><![CDATA[<p>今回は「削るのが怖いGPT」というテーマで話しました。</p><p><br></p><p>GPTに文章づくりを手伝ってもらうと、とても便利です。考えを整理してくれるし、流れも作ってくれる。だけど一方で、とにかく長い。説明が丁寧すぎる。くどい。</p><p><br></p><p>なぜGPTは文章を削るのが苦手なのか。</p><p>その背景には、LLMが「不足なく、筋道立てて、誤解されにくく答える」方向に鍛えられてきたことがあるのではないか、という話をしました。</p><p><br></p><p>でも、人間が読む文章には“余白”も大事です。</p><p>全部を説明されるより、少し想像できる隙間がある方が、読者の頭の中で文章が動き始める。</p><p><br></p><p>GPTに任せるところ。</p><p>人間が削るところ。</p><p>そして、読者に預けるところ。</p><p><br></p><p>AIに文章を書いてもらう時代だからこそ、人間の役割は「余白を決めること」なのかもしれません。</p><p><br></p><p><br></p><p>▼よこぼのAIラボ </p><p>AIで遊びながら、ゲーム・3D・動画・Web開発などを実験中。 日々の気づきや研究ログを発信しています。 https://yokobo-ai-lab.vercel.app</p>
+]]></description>
+    <pubDate>Mon, 29 Jun 2026 23:15:50 +0000</pubDate>
+    <enclosure url="https://pub-b41150828c6b4ba281393f859abc6865.r2.dev/podcast/ep014.m4a" length="9279990" type="audio/x-m4a"/>
+    <guid isPermaLink="false">8a950cee-e2bb-4842-88c2-d7c69d078c56</guid>
+    <itunes:duration>573</itunes:duration>
+    <itunes:episode>14</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>#13 失敗の解像度について</title>
+    <description><![CDATA[<p>研究ログ第13回目は「失敗の解像度」について話しました。</p><p><br></p><p>会社などで何かが予定通りにいかなかったとき、すぐに「失敗」と呼ばれたり、「確認不足だった」「なぜ予測できなかったのか」と反省会が始まったりすることがあります。</p><p><br></p><p>でも、そもそもそれは本当に失敗なのか。</p><p>やってみたことで前提が明らかになっただけかもしれないし、早い段階で問題を見つけられた成功かもしれない。</p><p><br></p><p>今回は、何でもかんでも「失敗BOX」に入れてしまう危うさや、「確認不足」「予測できなかったのか」という便利だけど危険な言葉について考えました。</p><p><br></p><p>失敗を責める道具ではなく、学ぶ道具にするにはどうしたらいいのか。</p><p>そんなもやもやを話しています。</p><p><br></p><p><br></p><p>▼よこぼのAIラボ </p><p>AIで遊びながら、ゲーム・3D・動画・Web開発などを実験中。 日々の気づきや研究ログを発信しています。 https://yokobo-ai-lab.vercel.app</p>
+]]></description>
+    <pubDate>Sun, 28 Jun 2026 22:57:34 +0000</pubDate>
+    <enclosure url="https://pub-b41150828c6b4ba281393f859abc6865.r2.dev/podcast/ep013.m4a" length="9100835" type="audio/x-m4a"/>
+    <guid isPermaLink="false">902a0529-888b-45ae-8d4e-27e541859cf8</guid>
+    <itunes:duration>562</itunes:duration>
+    <itunes:episode>13</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>#12 その行動の価値って本当に1つだけ？</title>
+    <description><![CDATA[<p>研究ログ第12回は「その行動の価値って本当に1つだけ？」というテーマです。</p><p><br></p><p>ポッドキャストの再生数が1回や2回でも続けているのは、再生数だけが価値ではないからです。</p><p><br></p><p>話すことで考えが整理される。あとから使える素材になる。朝の頭が動き出す。</p><p>一つの行動からは、意外と複数の価値が生まれます。</p><p><br></p><p>今回は、仕事でやっている「派遣さんQ&Aコーナー」の話も交えながら、行動と価値を1対1で考えすぎないことについて話しました。</p><p><br></p><p>発信や仕事の見え方が、少し変わるかもしれません。</p><p><br></p><p><br></p><p>▼よこぼのAIラボ </p><p>AIで遊びながら、ゲーム・3D・動画・Web開発などを実験中。 日々の気づきや研究ログを発信しています。 https://yokobo-ai-lab.vercel.app</p>
+]]></description>
+    <pubDate>Thu, 25 Jun 2026 22:58:21 +0000</pubDate>
+    <enclosure url="https://pub-b41150828c6b4ba281393f859abc6865.r2.dev/podcast/ep012.m4a" length="8831678" type="audio/x-m4a"/>
+    <guid isPermaLink="false">69f76c61-e1d5-4ef9-9ca4-7b6b824a1695</guid>
+    <itunes:duration>545</itunes:duration>
+    <itunes:episode>12</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>#11 「まかせるレンズ」と「ポジティブなやめる」</title>
+    <description><![CDATA[<p>今回は「まかせるレンズ」と「ポジティブなやめる」というテーマでお話ししました。</p><p><br></p><p>最近、自分でも不思議なくらい色々なことができるようになりました。</p><p><br></p><p>コラムを書く。</p><p>ポッドキャストを収録する。</p><p>実験ログを書く。</p><p>ゲームを作る。</p><p><br></p><p>なぜこんなにできるようになったのか振り返ってみると、AIにたくさんのことを「まかせている」ことに気づきました。</p><p><br></p><p>そして面白いことに、「まかせる」を意識し始めると、「やめる」も見えてきます。</p><p><br></p><p>さらに、AIによって増えたのは「できること」だけではなく、「選べること」だったのかもしれません。</p><p><br></p><p>やる。</p><p>やらない。</p><p><br></p><p>だけではなく、</p><p><br></p><p>AIと一緒にやる。</p><p>AIにまかせる。</p><p>後回しにする。</p><p>今はやめる。</p><p><br></p><p>そんな選択肢について考えた研究ログです。</p><p><br></p><p><br></p><p>▼よこぼのAIラボ </p><p>AIで遊びながら、ゲーム・3D・動画・Web開発などを実験中。 日々の気づきや研究ログを発信しています。 https://yokobo-ai-lab.vercel.app</p>
+]]></description>
+    <pubDate>Wed, 24 Jun 2026 22:58:53 +0000</pubDate>
+    <enclosure url="https://pub-b41150828c6b4ba281393f859abc6865.r2.dev/podcast/ep011.m4a" length="8906290" type="audio/x-m4a"/>
+    <guid isPermaLink="false">bfdab7bb-91f8-4294-9858-a574f3844312</guid>
+    <itunes:duration>550</itunes:duration>
+    <itunes:episode>11</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>#10 AIに任せたら、自分のやるべきことが見えてきた</title>
+    <description><![CDATA[<p>第10回は「AIに任せたら、自分がやるべきことが見えてきた」という話です。</p><p><br></p><p>思いつきや気づきを逃さないために作った inbox。</p><p>その中身をAIエージェントに活用してもらう仕組みを作っていたら、逆に「自分がやるべきこと」の輪郭が見えてきました。</p><p><br></p><p>今回見えてきたのは、</p><p>種を集めること、違和感を判定すること、自分の成長につながることはキープすること。</p><p><br></p><p>AIに任せるほど人間の役割が消えるのではなく、むしろ「ここは自分が持つべきだな」という境界線が見えてくる。</p><p>そんな実験ログです。</p><p><br></p><p>▼よこぼのAIラボ </p><p>AIで遊びながら、ゲーム・3D・動画・Web開発などを実験中。 日々の気づきや研究ログを発信しています。 https://yokobo-ai-lab.vercel.app</p>
+]]></description>
+    <pubDate>Tue, 23 Jun 2026 23:00:01 +0000</pubDate>
+    <enclosure url="https://pub-b41150828c6b4ba281393f859abc6865.r2.dev/podcast/ep010.m4a" length="8439754" type="audio/x-m4a"/>
+    <guid isPermaLink="false">0f1a1b62-17bd-4b6f-af30-017c47c38cbf</guid>
+    <itunes:duration>521</itunes:duration>
+    <itunes:episode>10</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>#9 ポッドキャストやってみたら発見だらけだった</title>
+    <description><![CDATA[<p>第9回は「ポッドキャストやってみたら発見だらけだった」というテーマです。</p><p><br></p><p>AI時代の差別化は「声」かもしれない。</p><p>そんな話をきっかけに始めたポッドキャストですが、9回ほど続けてみると、思った以上にいろいろな発見がありました。</p><p><br></p><p>喋ると頭が冴える。</p><p>文章にしていなかった考えが出てくる。</p><p>声には文章とは違う表現の幅がある。</p><p>文字起こしが次の思考の素材になる。</p><p><br></p><p>今回は、ポッドキャストを始めてみて感じた4つの発見について話しました。</p><p><br></p><p><br></p><p>▼よこぼのAIラボ </p><p>AIで遊びながら、ゲーム・3D・動画・Web開発などを実験中。 </p><p>日々の気づきや研究ログを発信しています。 </p><p>https://yokobo-ai-lab.vercel.app</p>
+]]></description>
+    <pubDate>Mon, 22 Jun 2026 22:58:47 +0000</pubDate>
+    <enclosure url="https://pub-b41150828c6b4ba281393f859abc6865.r2.dev/podcast/ep009.m4a" length="8167696" type="audio/x-m4a"/>
+    <guid isPermaLink="false">59971991-da61-416d-b0ac-e35a831899b3</guid>
+    <itunes:duration>504</itunes:duration>
+    <itunes:episode>9</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title> #8 情報の海と、SSOTという道しるべ</title>
+    <description><![CDATA[<p>研究ログ第8回は「情報の海と、SSOTという道しるべ」。</p><p><br></p><p>SSOTとは、Single Source of Truthの略で、「唯一の信頼できる情報源」と訳されることが多い言葉です。</p><p><br></p><p>仕事をしていると、「この情報はメールが正しいのか、Wordが正しいのか、PDFが正しいのか、PowerPointが正しいのか」と迷う場面があります。</p><p><br></p><p>業務改善を考えるときも、まず大事なのは「作業をどう減らすか」だけではなく、「どこを見れば正しい情報だと言えるのか」を決めることなのかもしれません。</p><p><br></p><p>今回は、非IT職の視点から見たSSOTの面白さについて話しました。</p><p><br></p><p><br></p><p><br></p><p>▼よこぼのAIラボ</p><p>AIで遊びながら、ゲーム・3D・動画・Web開発などを実験中。</p><p>日々の気づきや研究ログを発信しています。</p><p>https://yokobo-ai-lab.vercel.app</p>
+]]></description>
+    <pubDate>Sun, 21 Jun 2026 22:58:27 +0000</pubDate>
+    <enclosure url="https://pub-b41150828c6b4ba281393f859abc6865.r2.dev/podcast/ep008.m4a" length="6038451" type="audio/x-m4a"/>
+    <guid isPermaLink="false">f7bcd9ee-7f77-4fdd-bf8a-c824bc5bc727</guid>
+    <itunes:duration>373</itunes:duration>
+    <itunes:episode>8</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>#7 文化人類学者ごっこをしたい</title>
+    <description><![CDATA[<p>今回は「文化人類学者ごっこをしたい」というテーマでお話ししました。</p><p><br></p><p>最近読んだ本をきっかけに、文化人類学という学問に興味を持ちました。まだまだ初心者ですが、「なぜその人たちはそう考えるのか？」を観察する文化人類学の視点がとても面白そうだと感じています。</p><p><br></p><p>文化人類学者は、遠い国の民族だけでなく、会社や学校、さらには科学者のコミュニティまでも観察対象にします。そう考えると、私たちの日常も異文化だらけなのかもしれません。</p><p><br></p><p>今回は、オーストラリア先住民のもとで暮らした研究者のエピソードや、文化人類学者ならではのものの見方を紹介しながら、「会社で文化人類学者ごっこをしたら面白いのでは？」という話をしてみました。</p><p><br></p><p>相手を「間違っている人」として見るのではなく、「違う文化圏の住人」として見てみる。</p><p><br></p><p>そんなレンズを手に入れると、いつもの景色が少し違って見えるかもしれません。</p><p><br></p><p><br></p><p>▼よこぼのAIラボ</p><p>AIで遊びながら、ゲーム・3D・動画・Web開発などを実験中。</p><p>日々の気づきや研究ログを発信しています。</p><p>https://yokobo-ai-lab.vercel.app</p>
+]]></description>
+    <pubDate>Fri, 19 Jun 2026 09:56:09 +0000</pubDate>
+    <enclosure url="https://pub-b41150828c6b4ba281393f859abc6865.r2.dev/podcast/ep007.m4a" length="8628795" type="audio/x-m4a"/>
+    <guid isPermaLink="false">bf224d3d-7d0a-4f78-83f2-15ceca95c66b</guid>
+    <itunes:duration>533</itunes:duration>
+    <itunes:episode>7</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>#6 画像生成AIは曼荼羅を作るのか？！</title>
+    <description><![CDATA[<p>GPT-images2.0の登場で、最近ますます画像生成AIにハマっています。</p><p><br></p><p>特にお気に入りなのが「インフォグラフィック化」。</p><p><br></p><p>気になる概念や記事を図解してもらい、その画像を眺めながらさらにAIと議論する。そんな使い方を繰り返しているうちに、なぜか理解が深まる感覚があります。</p><p><br></p><p>そんな中で出会ったのが、密教の「曼荼羅」の話。</p><p><br></p><p>言葉だけでは捉えきれないものを、イメージを使って理解しようとする発想に、不思議な共通点を感じました。</p><p><br></p><p>今回の研究ログでは、</p><p><br></p><p>・なぜ画像にすると理解が進むのか？</p><p>・曼荼羅とインフォグラフィックの意外な共通点</p><p>・理解とは何か？認知とは何か？</p><p><br></p><p>について、最近の気づきをお話ししています。</p><p><br></p><p>AI画像生成の話から始まったはずなのに、気づけば「人はどうやって理解しているのか？」というテーマに辿り着いていました。</p><p><br></p><p><br></p><p>▼よこぼのAIラボ</p><p>AIで遊びながら、ゲーム・3D・動画・Web開発などを実験中。</p><p>日々の気づきや研究ログを発信しています。</p><p>https://yokobo-ai-lab.vercel.app</p>
+]]></description>
+    <pubDate>Wed, 17 Jun 2026 23:00:12 +0000</pubDate>
+    <enclosure url="https://pub-b41150828c6b4ba281393f859abc6865.r2.dev/podcast/ep006.m4a" length="6605647" type="audio/x-m4a"/>
+    <guid isPermaLink="false">720d24ad-59b1-4b4c-bd98-ff46d422b226</guid>
+    <itunes:duration>408</itunes:duration>
+    <itunes:episode>6</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>#5 賢くなったGPTは思考を閉じようとしてくる？</title>
+    <description><![CDATA[<p>最近のChatGPT、賢くなったと思いませんか？</p><p><br></p><p>過去の会話を覚えていて、「前にこんな話してましたよね」と繋げてくれることが増えました。</p><p><br></p><p>便利になった一方で、僕はある違和感を覚えました。</p><p><br></p><p>なぜか何を話しても「世界モデル」という概念に結びつけてくるのです。</p><p>（世界モデルは#1でお話してます、僕が最近強く興味を持ってる概念です）</p><p><br></p><p>最初は「ちゃんと覚えてるな」と感心していたのですが、だんだんモヤモヤしてきました。</p><p><br></p><p>その違和感を追いかけてみたところ、</p><p><br></p><p>* なぜ思考が閉じる感覚が生まれたのか</p><p>* AIはなぜ同じ言葉を繰り返すのか</p><p>* 概念を使いすぎると輪郭はぼやけるのか</p><p><br></p><p>など、思いがけない問いに繋がりました。</p><p><br></p><p>今回はGPTとの会話から生まれた、小さな研究ログです。</p><p><br></p><p>▼よこぼのAIラボ</p><p>AIで遊びながら、ゲーム・3D・動画・Web開発などを実験中。</p><p>日々の気づきや研究ログを発信しています。</p><p>https://yokobo-ai-lab.vercel.app</p>
+]]></description>
+    <pubDate>Tue, 16 Jun 2026 23:12:39 +0000</pubDate>
+    <enclosure url="https://pub-b41150828c6b4ba281393f859abc6865.r2.dev/podcast/ep005.m4a" length="7168792" type="audio/x-m4a"/>
+    <guid isPermaLink="false">1e0746de-c1ce-47f1-a6ec-f5129439528d</guid>
+    <itunes:duration>443</itunes:duration>
+    <itunes:episode>5</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>#4 サブスク加入2日目で国家に止められた話</title>
+    <description><![CDATA[<p>今回は、サブスク加入2日目で国家に止められた話です。</p><p><br></p><p>AI界隈で話題になったClaude Fableというモデルに、「1ヶ月だけ遊び倒そう！」と意気揚々と課金した僕。</p><p><br></p><p>ところがその2日後、アメリカ政府によるアクセス制限で利用停止に。</p><p><br></p><p>人生で初めて、</p><p>「サブスク加入2日目で国家に止められる」</p><p>という経験をしました。</p><p><br></p><p>正直めちゃくちゃショックでした。</p><p><br></p><p>でも、その驚きから不思議といろいろな問いが生まれました。</p><p><br></p><p>Fableは何がすごかったのか？</p><p>みんなが言う「表現力」とは何なのか？</p><p>AI Safetyとは何なのか？</p><p><br></p><p>そして気づけば、技術の歴史や人類の新技術との向き合い方にまで興味が広がっていました。</p><p><br></p><p>今回は、そんな衝撃的な出来事から生まれた「思考の種」についてお話ししています。</p><p><br></p><p>ぜひ気軽にお聴きください。</p><p><br></p><p>▼よこぼのAIラボ</p><p>AIで遊びながら、ゲーム・3D・動画・Web開発などを実験中。</p><p>日々の気づきや研究ログを発信しています。</p>
+]]></description>
+    <pubDate>Tue, 16 Jun 2026 03:00:00 +0000</pubDate>
+    <enclosure url="https://pub-b41150828c6b4ba281393f859abc6865.r2.dev/podcast/ep004.m4a" length="7570460" type="audio/x-m4a"/>
+    <guid isPermaLink="false">0d15f7af-c4c4-438f-ae36-89cdba6726c5</guid>
+    <itunes:duration>467</itunes:duration>
+    <itunes:episode>4</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>#3 AIは妄想してくれない</title>
+    <description><![CDATA[<p>今回は「妄想力」について考えてみました。</p><p><br></p><p>最近、AIでゲームやWebサイトを作って遊んでいる中で、</p><p><br></p><p>「結局一番大事なのは妄想力なのでは？」</p><p><br></p><p>と思うようになりました。</p><p><br></p><p>AIは画像も動画もコードも作ってくれます。</p><p><br></p><p>でも、</p><p><br></p><p>「何を作りたいのか」</p><p><br></p><p>だけは自分で決める必要があります。</p><p><br></p><p>そんなことを考えているうちに、</p><p><br></p><p>妄想はどこから生まれるのか？</p><p><br></p><p>という疑問にもぶつかりました。</p><p><br></p><p>まだ答えは出ていませんが、今の時点で考えていることを研究ログとして残しています。</p><p><br></p><p>ぜひ気軽にお聴きください。</p><p><br></p><p>▼よこぼのAIラボ</p><p>AIで遊びながら、ゲーム・3D・動画・Web開発などを実験中。</p><p>日々の気づきや研究ログを発信しています。</p><p>https://yokobo-ai-lab.vercel.app</p>
+]]></description>
+    <pubDate>Sun, 14 Jun 2026 23:03:49 +0000</pubDate>
+    <enclosure url="https://pub-b41150828c6b4ba281393f859abc6865.r2.dev/podcast/ep003.m4a" length="4923246" type="audio/x-m4a"/>
+    <guid isPermaLink="false">b5109d93-1aed-4f2a-b20e-aa16fe1ac8d1</guid>
+    <itunes:duration>304</itunes:duration>
+    <itunes:episode>3</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>#2 AI時代、重要なのは「なんか違う」に気づける力では？</title>
+    <description><![CDATA[<p>今回は「AI時代に重要なのは“なんか違うな”に気づける力では？」というテーマでお話ししました。</p><p><br></p><p>AIはすぐに答えやアイデアを提案してくれます。</p><p>とても便利です。</p><p><br></p><p>でも、その回答は本当に自分が欲しいものなのでしょうか？</p><p><br></p><p>実は今回のテーマも、AIとの対話の中で何度も「なんか違う」を繰り返しながらたどり着きました。</p><p><br></p><p>AIの特性と、違和感の大切さについてゆるく考察しています。</p><p><br></p><p><br></p><p>▼よこぼのAIラボ</p><p>AIで遊びながら、ゲーム・3D・動画・Web開発などを実験中。</p><p>日々の気づきや研究ログを発信しています。</p><p>https://yokobo-ai-lab.vercel.app</p>
+]]></description>
+    <pubDate>Thu, 11 Jun 2026 23:00:00 +0000</pubDate>
+    <enclosure url="https://pub-b41150828c6b4ba281393f859abc6865.r2.dev/podcast/ep002.m4a" length="5843932" type="audio/x-m4a"/>
+    <guid isPermaLink="false">115137fc-1adc-4c60-8f73-347d5d34416a</guid>
+    <itunes:duration>361</itunes:duration>
+    <itunes:episode>2</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>#1 世界モデルってなんなんだろう？</title>
+    <description><![CDATA[<p>今回は「世界モデルってなんだろう？」というテーマでお話ししました。</p><p><br></p><p>最近、AI界隈でよく耳にする「世界モデル（World Model）」という言葉。</p><p><br></p><p>動画生成AIの進化とともに語られることも増えていますが、正直なところ最初は僕もよく分かっていませんでした。</p><p><br></p><p>そこで調べたり考えたりする中で、「頭の中にある世界シミュレーター」のようなものではないか、という考えにたどり着きました。</p><p><br></p><p>シマウマの例や無重力空間の例を使いながら、人間とAIの世界モデルについてゆるく考察しています。</p><p><br></p><p>答えを解説するというより、AIと対話しながら考えたことを記録する研究ログです。</p><p><br></p><p>ぜひ気軽にお聴きください。</p><p><br></p><p>▼よこぼのAIラボ</p><p>AIで遊びながら、ゲーム・3D・動画・Web開発などを実験中。</p><p>日々の気づきや研究ログを発信しています。</p><p><a href="https://yokobo-ai-lab.vercel.app">https://yokobo-ai-lab.vercel.app</a></p>
+]]></description>
+    <pubDate>Wed, 10 Jun 2026 23:06:02 +0000</pubDate>
+    <enclosure url="https://pub-b41150828c6b4ba281393f859abc6865.r2.dev/podcast/ep001.m4a" length="8864798" type="audio/x-m4a"/>
+    <guid isPermaLink="false">c913a609-a2c3-4900-8067-1b0e230c77df</guid>
+    <itunes:duration>548</itunes:duration>
+    <itunes:episode>1</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>
