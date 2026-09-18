@@ -30,7 +30,7 @@ AIラボの研究記事や制作物は「よこぼのAIラボ」で公開中。
 
 https://yokobo-ai-lab.vercel.app/]]></description>
   <language>ja</language>
-  <atom:link href="https://pub-b41150828c6b4ba281393f859abc6865.r2.dev/podcast/feed.xml" rel="self" type="application/rss+xml"/>
+  <atom:link href="https://yokobo103.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>よこぼ</itunes:author>
   <itunes:summary><![CDATA[ようこそ、よこぼのAIラボへ。
 
@@ -59,7 +59,7 @@ https://yokobo-ai-lab.vercel.app/]]></itunes:summary>
     <itunes:name>よこぼ</itunes:name>
     <itunes:email>yokobo.ai.lab@gmail.com</itunes:email>
   </itunes:owner>
-  <itunes:image href="https://pub-b41150828c6b4ba281393f859abc6865.r2.dev/podcast/artwork.jpg"/>
+  <itunes:image href="https://yokobo103.github.io/podcast/artwork.jpg"/>
   <itunes:category text="Technology"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
