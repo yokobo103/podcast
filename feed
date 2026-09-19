@@ -67,7 +67,7 @@ https://yokobo-ai-lab.vercel.app/]]></itunes:summary>
     <title>#40 そのモヤモヤをAIに投げつけろ！</title>
     <description><![CDATA[<p>研究ログ 第40回目は</p><p><br></p><p>そのモヤモヤをAIに投げつけろ！</p><p><br></p><p>会社のChatGPTハンズオンセミナーにサポーターとして参加しました。AIに質問して、返ってきた答えにモヤモヤする。そこで終わってしまう人がいて、自分が当たり前だと思っていた使い方が、実は当たり前ではなかったと気づきました。</p><p><br></p><p>僕はモヤモヤしたら、そのモヤモヤをそのままAIに投げます。「それ本当にそう？」「別の視点だとどう？」と投げ返すうちに、自分でもはっきりしていなかった目的が見えてくる。検索エンジンと違って、ラフな言葉や言語化しきれていない違和感を投げてもいいし、それこそがAIの力を引き出す使い方だと思っています。</p><p><br></p><p>「しっかりしたプロンプトで伝えなきゃ」という意識と、「モヤモヤをうまく言えないから自分の中にとどめる」という壁は、たぶんつながっている。社内でAIをどう広めるか悩んでいる方のヒントになればうれしい、というお話です。</p><p><br></p><p>▼よこぼのAIラボ</p><p>AIで遊びながら、ゲーム・3D・動画・Web開発などを実験中。</p><p>日々の気づきや研究ログを発信しています。</p><p><a href="https://yokobo-ai-lab.vercel.app">https://yokobo-ai-lab.vercel.app</a></p>]]></description>
     <pubDate>Thu, 17 Sep 2026 09:00:00 +0900</pubDate>
-    <enclosure url="https://pub-b41150828c6b4ba281393f859abc6865.r2.dev/podcast/ep040.mp3" length="8059551" type="audio/mpeg"/>
+    <enclosure url="https://yokobo-podcast.yokobo-ai-lab.workers.dev/podcast/ep040.mp3" length="8059551" type="audio/mpeg"/>
     <guid isPermaLink="false">yokobo-lab-ep040</guid>
     <itunes:duration>503</itunes:duration>
     <itunes:episode>40</itunes:episode>
