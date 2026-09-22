@@ -64,6 +64,16 @@ https://yokobo-ai-lab.vercel.app/]]></itunes:summary>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <item>
+    <title>#41 知らないものは検索できない</title>
+    <description><![CDATA[<p>研究ログ 第41回目は</p><p><br></p><p>知らないものは検索できない</p><p><br></p><p>社内の共有フォルダで資料を探すのが大変で、タスク管理ツールのAsanaにナレッジを集め始めました。検索しやすくなって便利だと思っていたのですが、そこで別の課題に気づきました。</p><p><br></p><p>新入社員や異動してきた人は、そもそも何があるのか、何を検索すればいいのかがわからない。検索性を上げるだけでは、その手前にある困りごとは解決しないんですよね。</p><p><br></p><p>「この作業をするなら、この情報やツールが必要」とわかる入口があったらどうだろう。検索と、検索する前に何が必要かを知る仕組み。その両方が必要なのではないか、というお話です。</p><p><br></p><p>▼よこぼのAIラボ</p><p>AIで遊びながら、ゲーム・3D・動画・Web開発などを実験中。</p><p>日々の気づきや研究ログを発信しています。</p><p><a href="https://yokobo-ai-lab.vercel.app">https://yokobo-ai-lab.vercel.app</a></p>]]></description>
+    <pubDate>Tue, 22 Sep 2026 18:06:37 +0900</pubDate>
+    <enclosure url="https://yokobo-podcast.yokobo-ai-lab.workers.dev/podcast/ep041.mp3" length="6802329" type="audio/mpeg"/>
+    <guid isPermaLink="false">yokobo-lab-ep041</guid>
+    <itunes:duration>425</itunes:duration>
+    <itunes:episode>41</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>#40 そのモヤモヤをAIに投げつけろ！</title>
     <description><![CDATA[<p>研究ログ 第40回目は</p><p><br></p><p>そのモヤモヤをAIに投げつけろ！</p><p><br></p><p>会社のChatGPTハンズオンセミナーにサポーターとして参加しました。AIに質問して、返ってきた答えにモヤモヤする。そこで終わってしまう人がいて、自分が当たり前だと思っていた使い方が、実は当たり前ではなかったと気づきました。</p><p><br></p><p>僕はモヤモヤしたら、そのモヤモヤをそのままAIに投げます。「それ本当にそう？」「別の視点だとどう？」と投げ返すうちに、自分でもはっきりしていなかった目的が見えてくる。検索エンジンと違って、ラフな言葉や言語化しきれていない違和感を投げてもいいし、それこそがAIの力を引き出す使い方だと思っています。</p><p><br></p><p>「しっかりしたプロンプトで伝えなきゃ」という意識と、「モヤモヤをうまく言えないから自分の中にとどめる」という壁は、たぶんつながっている。社内でAIをどう広めるか悩んでいる方のヒントになればうれしい、というお話です。</p><p><br></p><p>▼よこぼのAIラボ</p><p>AIで遊びながら、ゲーム・3D・動画・Web開発などを実験中。</p><p>日々の気づきや研究ログを発信しています。</p><p><a href="https://yokobo-ai-lab.vercel.app">https://yokobo-ai-lab.vercel.app</a></p>]]></description>
     <pubDate>Thu, 17 Sep 2026 09:00:00 +0900</pubDate>
