@@ -64,6 +64,16 @@ https://yokobo-ai-lab.vercel.app/]]></itunes:summary>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <item>
+    <title>#42 デザインかと思ったら、作る側の都合だった</title>
+    <description><![CDATA[<p>研究ログ 第42回目は</p><p><br></p><p>デザインかと思ったら、作る側の都合だった</p><p><br></p><p>3Dプリンターを買って、ベビーベッドの横に置く箱などを作り始めました。AIと一緒に設計できることも、物が少しずつ形になっていくことも面白く、身の回りの物の見え方が変わっていきました。</p><p><br></p><p>プラスチック製品の傾斜や厚みは、デザインや強度のためだと思っていたものが、金型から取り出しやすくするための射出成形の都合かもしれない。一方、3Dプリンターは積み上げて作るので、同じプラスチックでも得意な形が違います。</p><p><br></p><p>物に限らず、ソフトウェアや仕組みにも、作る側がやりやすかったから残っているデザインがあるのではないか。3Dプリンターで遊びながら、そんなことを考えたお話です。</p><p><br></p><p>▼よこぼのAIラボ</p><p>AIで遊びながら、ゲーム・3D・動画・Web開発などを実験中。</p><p>日々の気づきや研究ログを発信しています。</p><p><a href="https://yokobo-ai-lab.vercel.app">https://yokobo-ai-lab.vercel.app</a></p>]]></description>
+    <pubDate>Thu, 24 Sep 2026 09:00:00 +0900</pubDate>
+    <enclosure url="https://yokobo-podcast.yokobo-ai-lab.workers.dev/podcast/ep042.mp3" length="8551071" type="audio/mpeg"/>
+    <guid isPermaLink="false">yokobo-lab-ep042</guid>
+    <itunes:duration>534</itunes:duration>
+    <itunes:episode>42</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>#41 知らないものは検索できない</title>
     <description><![CDATA[<p>研究ログ 第41回目は</p><p><br></p><p>知らないものは検索できない</p><p><br></p><p>社内の共有フォルダで資料を探すのが大変で、タスク管理ツールのAsanaにナレッジを集め始めました。検索しやすくなって便利だと思っていたのですが、そこで別の課題に気づきました。</p><p><br></p><p>新入社員や異動してきた人は、そもそも何があるのか、何を検索すればいいのかがわからない。検索性を上げるだけでは、その手前にある困りごとは解決しないんですよね。</p><p><br></p><p>「この作業をするなら、この情報やツールが必要」とわかる入口があったらどうだろう。検索と、検索する前に何が必要かを知る仕組み。その両方が必要なのではないか、というお話です。</p><p><br></p><p>▼よこぼのAIラボ</p><p>AIで遊びながら、ゲーム・3D・動画・Web開発などを実験中。</p><p>日々の気づきや研究ログを発信しています。</p><p><a href="https://yokobo-ai-lab.vercel.app">https://yokobo-ai-lab.vercel.app</a></p>]]></description>
     <pubDate>Tue, 22 Sep 2026 18:06:37 +0900</pubDate>
