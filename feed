@@ -64,6 +64,16 @@ https://yokobo-ai-lab.vercel.app/]]></itunes:summary>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <item>
+    <title>#63 ロボットカー作りに夢中になりすぎて外で収録しました</title>
+    <description><![CDATA[<p>研究ログ 第63回目は</p><p><br></p><p>ロボットカー作りに夢中になりすぎて外で収録しました</p><p><br></p><p>朝の収録を忘れるほどロボットカー作りに夢中になり、今回は通勤中の屋外で収録しました。外の音が入る中で、最近の試行錯誤を話します。</p><p><br></p><p>障害物を避ける一つの動作に集中しているうちに、本来の目的を見失ってしまう。コーディングエージェントを使うときこそ、ゴールを繰り返し伝えることが大切だと感じました。</p><p><br></p><p>コードの問題だと思っていた不具合の原因が、右タイヤの配線の接触不良だったこともありました。現実のものづくりでは、AIに任せきれない観察と原因探しが必要になる。その難しさも含めた、フィジカルAIの面白さについて話しました。</p><p><br></p><p>▼よこぼのAIラボ</p><p>AIで遊びながら、ゲーム・3D・動画・Web開発などを実験中。</p><p>日々の気づきや研究ログを発信しています。</p><p><a href="https://yokobo-ai-lab.vercel.app">https://yokobo-ai-lab.vercel.app</a></p>]]></description>
+    <pubDate>Fri, 30 Oct 2026 09:00:00 +0900</pubDate>
+    <enclosure url="https://yokobo-podcast.yokobo-ai-lab.workers.dev/podcast/ep063.mp3" length="5316484" type="audio/mpeg"/>
+    <guid isPermaLink="false">yokobo-lab-ep063</guid>
+    <itunes:duration>332</itunes:duration>
+    <itunes:episode>63</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>#62 あなたは学びを受け取る？もぎ取る？</title>
     <description><![CDATA[<p>研究ログ 第62回目は</p><p><br></p><p>あなたは学びを受け取る？もぎ取る？</p><p><br></p><p>社外の集まりで発表を聞いたあと、発表者と名刺交換をして少し話すと、発表内容の記憶まで強くなったように感じました。人柄や生の雰囲気に触れることで、情報の入り方が変わるのかもしれません。</p><p><br></p><p>セミナーや展示会でも、ただ聞くだけで終わらせず、自分から質問したり一言話しかけたりする。小さなアクションを加えることで、受け取った情報が自分の経験に変わり、残り方も変わるのではないかと考えました。</p><p><br></p><p>学びを受動的に受け取るのか、それとも自分からもぎ取るのか。アクティブラーニングにもつながる、経験を取りに行くことの大切さについて話しました。</p><p><br></p><p>▼よこぼのAIラボ</p><p>AIで遊びながら、ゲーム・3D・動画・Web開発などを実験中。</p><p>日々の気づきや研究ログを発信しています。</p><p><a href="https://yokobo-ai-lab.vercel.app">https://yokobo-ai-lab.vercel.app</a></p>]]></description>
     <pubDate>Wed, 28 Oct 2026 09:00:00 +0900</pubDate>
