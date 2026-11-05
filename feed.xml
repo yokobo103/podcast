@@ -64,6 +64,16 @@ https://yokobo-ai-lab.vercel.app/]]></itunes:summary>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <item>
+    <title>#66 ロボットカー提出しました！が、まだまだ未完成！</title>
+    <description><![CDATA[<p>研究ログ 第66回目は</p><p><br></p><p>ロボットカー提出しました！が、まだまだ未完成！</p><p><br></p><p>東京大学松尾研究室のフィジカルAI講座の最終課題として、カメラで目標を検知し、障害物を避けながら進むロボットカーを提出しました。9月末にゼロから始め、ChatGPTと相談しながら部品をそろえ、3Dプリンターで部品も作りました。</p><p><br></p><p>障害物を一つ避けるだけでも難しく、距離センサーの追加や配線、電源など、現実のものづくりならではの壁に何度もぶつかりました。AIエージェントは現実の様子を見られないため、状況をどう伝えるかも大きな課題でした。</p><p><br></p><p>最終課題は提出できましたが、アームを付けるなど、ニャビットカープロジェクトはまだまだ続きます。提出後も続くフィジカルAIの挑戦について話しました。</p><p><br></p><p>完成動画</p><p><a href="https://youtu.be/uYNYgaeG00g?si=YzPdytkC5ZLv7jfj">https://youtu.be/uYNYgaeG00g?si=YzPdytkC5ZLv7jfj</a></p><p><br></p><p>▼よこぼのAIラボ</p><p>AIで遊びながら、ゲーム・3D・動画・Web開発などを実験中。</p><p>日々の気づきや研究ログを発信しています。</p><p><a href="https://yokobo-ai-lab.vercel.app">https://yokobo-ai-lab.vercel.app</a></p>]]></description>
+    <pubDate>Thu, 05 Nov 2026 18:00:00 +0900</pubDate>
+    <enclosure url="https://yokobo-podcast.yokobo-ai-lab.workers.dev/podcast/ep066.mp3" length="7703449" type="audio/mpeg"/>
+    <guid isPermaLink="false">yokobo-lab-ep066</guid>
+    <itunes:duration>481</itunes:duration>
+    <itunes:episode>66</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>#65 目的なしの勉強と、29歳の緒方洪庵</title>
     <description><![CDATA[<p>研究ログ 第65回目は</p><p><br></p><p>目的なしの勉強と、29歳の緒方洪庵</p><p><br></p><p>前回に続き、大阪・淀屋橋の適塾と緒方洪庵について調べました。緒方洪庵は29歳で適塾を開き、オランダ語の文法から最前線の西洋医学を学ぶ場を作っていきました。</p><p><br></p><p>適塾には医師だけでなく町人や武士も集まり、福沢諭吉はそこでの学びを「目的なしの勉強」と表現しています。辞書が一冊しかない中で原書を読み、激動の時代に仲間と切磋琢磨した学びの場でした。</p><p><br></p><p>緒方洪庵がなぜ適塾を開いたのか、その動機はまだ調べている途中です。伝える相手の目線に立った翻訳姿勢や、目的なしに学ぶ場を作ったことから、緒方洪庵の価値観と学びの環境について考えました。</p><p><br></p><p>▼よこぼのAIラボ</p><p>AIで遊びながら、ゲーム・3D・動画・Web開発などを実験中。</p><p>日々の気づきや研究ログを発信しています。</p><p><a href="https://yokobo-ai-lab.vercel.app">https://yokobo-ai-lab.vercel.app</a></p>]]></description>
     <pubDate>Wed, 04 Nov 2026 09:00:00 +0900</pubDate>
