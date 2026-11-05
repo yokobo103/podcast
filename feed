@@ -64,6 +64,16 @@ https://yokobo-ai-lab.vercel.app/]]></itunes:summary>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <item>
+    <title>#67 AIが答えを教えてくれるのは、答えがある問題だけだ</title>
+    <description><![CDATA[<p>研究ログ 第67回目は</p><p><br></p><p>AIが答えを教えてくれるのは、答えがある問題だけだ</p><p><br></p><p>AIが発展したから、人を育てる必要はもうないのではないか。そんな「育成キャンセル」のような考えに触れたとき、チームのメンバーと関わりながら一緒に考えるプロセスは、やはり大切だと感じました。</p><p><br></p><p>AIは答えを教えてくれますが、それは答えがある問題についてです。人とのコミュニケーションや組織づくりのように、正解が一つではない問題は、AIがあっても考え続ける必要があります。</p><p><br></p><p>むしろAIと対話することで、一人では行き止まりだった考えをさらに深め、悩むこと自体を楽しめるようになった。人を育てることや、答えのない問題について考えた研究ログです。</p><p><br></p><p>▼よこぼのAIラボ</p><p>AIで遊びながら、ゲーム・3D・動画・Web開発などを実験中。</p><p>日々の気づきや研究ログを発信しています。</p><p><a href="https://yokobo-ai-lab.vercel.app">https://yokobo-ai-lab.vercel.app</a></p>]]></description>
+    <pubDate>Fri, 06 Nov 2026 09:00:00 +0900</pubDate>
+    <enclosure url="https://yokobo-podcast.yokobo-ai-lab.workers.dev/podcast/ep067.mp3" length="8981151" type="audio/mpeg"/>
+    <guid isPermaLink="false">yokobo-lab-ep067</guid>
+    <itunes:duration>561</itunes:duration>
+    <itunes:episode>67</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>#66 ロボットカー提出しました！が、まだまだ未完成！</title>
     <description><![CDATA[<p>研究ログ 第66回目は</p><p><br></p><p>ロボットカー提出しました！が、まだまだ未完成！</p><p><br></p><p>東京大学松尾研究室のフィジカルAI講座の最終課題として、カメラで目標を検知し、障害物を避けながら進むロボットカーを提出しました。9月末にゼロから始め、ChatGPTと相談しながら部品をそろえ、3Dプリンターで部品も作りました。</p><p><br></p><p>障害物を一つ避けるだけでも難しく、距離センサーの追加や配線、電源など、現実のものづくりならではの壁に何度もぶつかりました。AIエージェントは現実の様子を見られないため、状況をどう伝えるかも大きな課題でした。</p><p><br></p><p>最終課題は提出できましたが、アームを付けるなど、ニャビットカープロジェクトはまだまだ続きます。提出後も続くフィジカルAIの挑戦について話しました。</p><p><br></p><p>完成動画</p><p><a href="https://youtu.be/uYNYgaeG00g?si=YzPdytkC5ZLv7jfj">https://youtu.be/uYNYgaeG00g?si=YzPdytkC5ZLv7jfj</a></p><p><br></p><p>▼よこぼのAIラボ</p><p>AIで遊びながら、ゲーム・3D・動画・Web開発などを実験中。</p><p>日々の気づきや研究ログを発信しています。</p><p><a href="https://yokobo-ai-lab.vercel.app">https://yokobo-ai-lab.vercel.app</a></p>]]></description>
     <pubDate>Thu, 05 Nov 2026 18:00:00 +0900</pubDate>
