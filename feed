@@ -64,6 +64,16 @@ https://yokobo-ai-lab.vercel.app/]]></itunes:summary>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <item>
+    <title>#73 AIでゲームを作ったら、勉強会まで変わった</title>
+    <description><![CDATA[<p>研究ログ 第73回目は</p><p><br></p><p>AIでゲームを作ったら、勉強会まで変わった</p><p><br></p><p>MetaのAIエージェント「Muse」で、医薬品の製造工程を体験できるゲームを作りました。最初の着想から6日間、バージョン30まで試作とやり取りを重ねながら、自分が欲しいものの方向性を少しずつ見つけていきました。</p><p><br></p><p>完成したゲームを部署のメンバーに触ってもらいながら説明すると、動かないパワーポイントよりも話しやすく、実際に操作してもらうことで理解を深めてもらえる手応えがありました。受け身で聞くだけでなく、自分で触って体験してもらうことの大切さを感じた話です。</p><p><br></p><p>くすりづくりシミュレーター</p><p><a href="https://enjoytabletmaking.vercel.app">https://enjoytabletmaking.vercel.app</a></p><p>※PC推奨です。</p><p><br></p><p>自分でツールを作り、それを使って学びを深めてもらう。こうしたことが、いろいろなテーマで簡単にできる時代になってきたのかもしれないと感じた研究ログです。</p><p><br></p><p>▼よこぼのAIラボ</p><p>AIで遊びながら、ゲーム・3D・動画・Web開発などを実験中。</p><p>日々の気づきや研究ログを発信しています。</p><p><a href="https://yokobo-ai-lab.vercel.app">https://yokobo-ai-lab.vercel.app</a></p>]]></description>
+    <pubDate>Tue, 17 Nov 2026 09:00:00 +0900</pubDate>
+    <enclosure url="https://yokobo-podcast.yokobo-ai-lab.workers.dev/podcast/ep073.mp3" length="7572210" type="audio/mpeg"/>
+    <guid isPermaLink="false">yokobo-lab-ep073</guid>
+    <itunes:duration>473</itunes:duration>
+    <itunes:episode>73</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>#72 無料で使えるAIエージェント「Muse」で、世は大AIエージェント時代に突入か？！</title>
     <description><![CDATA[<p>研究ログ 第72回目は</p><p><br></p><p>無料で使えるAIエージェント「Muse」で、世は大AIエージェント時代に突入か？！</p><p><br></p><p>最近、MetaのAIエージェント「Muse」を使い始めました。AIエージェント自体はこれまでも使ってきましたが、無料で使える枠が大きく、気軽に触れられるところに魅力を感じています。</p><p><br></p><p>プレゼンやロボットカーのシミュレーター、医薬品の作り方をゲーム感覚で体験できる「くすりづくりシミュレーター」などを作ってもらいました。よかったら遊んでみてください。</p><p><a href="https://enjoytabletmaking.vercel.app">https://enjoytabletmaking.vercel.app</a></p><p>※PC推奨です。</p><p><br></p><p>Museはレスポンスが速く、別の使い方も提案してくれます。AIエージェントを使ったことがない人にも試してほしい一方で、個人サービスとの接続やモデルの学習利用に関する設定には注意が必要です。Museの使い心地と、AIの社内普及について考えた研究ログです。</p><p><br></p><p>▼よこぼのAIラボ</p><p>AIで遊びながら、ゲーム・3D・動画・Web開発などを実験中。</p><p>日々の気づきや研究ログを発信しています。</p><p><a href="https://yokobo-ai-lab.vercel.app">https://yokobo-ai-lab.vercel.app</a></p>]]></description>
     <pubDate>Mon, 16 Nov 2026 09:00:00 +0900</pubDate>
