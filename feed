@@ -64,16 +64,6 @@ https://yokobo-ai-lab.vercel.app/]]></itunes:summary>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <item>
-    <title>#75 若手の挑戦を、ちゃんと喜べていますか？</title>
-    <description><![CDATA[<p>研究ログ 第75回目は</p><p><br></p><p>若手の挑戦を、ちゃんと喜べていますか？</p><p><br></p><p>小さなチームを持つ中で、1年目のメンバーに部署内のミーティングで発表してもらう機会をつくりました。発表の内容には改善点もありましたが、上司が「発表したこと」「挑戦したこと」自体をとても喜んでくれた。その姿が心に残りました。</p><p><br></p><p>まずはバッターボックスに立ったことを肯定する。そのうえで、本人の成長につながるように内容について伝える。挑戦する人を後押しできるチームでありたいという、自分の価値観をあらためて考えた研究ログです。</p><p><br></p><p>▼よこぼのAIラボ</p><p>AIで遊びながら、ゲーム・3D・動画・Web開発などを実験中。</p><p>日々の気づきや研究ログを発信しています。</p><p><a href="https://yokobo-ai-lab.vercel.app">https://yokobo-ai-lab.vercel.app</a></p>]]></description>
-    <pubDate>Fri, 20 Nov 2026 09:00:00 +0900</pubDate>
-    <enclosure url="https://yokobo-podcast.yokobo-ai-lab.workers.dev/podcast/ep075.mp3" length="9579250" type="audio/mpeg"/>
-    <guid isPermaLink="false">yokobo-lab-ep075</guid>
-    <itunes:duration>598</itunes:duration>
-    <itunes:episode>75</itunes:episode>
-    <itunes:explicit>false</itunes:explicit>
-  </item>
-  <item>
     <title>#74 AXエバンジェリストに俺はなる！</title>
     <description><![CDATA[<p>研究ログ 第74回目は</p><p><br></p><p>AXエバンジェリストに俺はなる！</p><p><br></p><p>東京大学の松尾研究室が主催するAX Evangelist講座を受講しています。パロアルトインサイトCEOの石角さんの講義で聞いた、AIを社内に導入していくための勉強会の事例がとても面白かったので、その話をしました。</p><p><br></p><p>人事部の一メンバーが勉強会を開き、興味を持った他部署の人とのつながりから情報を集め、自分の部署の課題をAIで解決する活動を組織全体へ広げていった事例。組織には、まず自分で試す人、ルールがあれば動く人、証拠がないと動かない人など、さまざまなタイプがいます。それぞれの強みを理解し、どうすれば動いてもらえるかを考えることが大切だと学びました。</p><p><br></p><p>まだ信じていない人に信じてもらい、橋がかかっていないところに橋をかけるのがエバンジェリスト。講座を通じて、自分もそうなりたいんだと気づいた研究ログです。</p><p><br></p><p>▼よこぼのAIラボ</p><p>AIで遊びながら、ゲーム・3D・動画・Web開発などを実験中。</p><p>日々の気づきや研究ログを発信しています。</p><p><a href="https://yokobo-ai-lab.vercel.app">https://yokobo-ai-lab.vercel.app</a></p>]]></description>
     <pubDate>Thu, 19 Nov 2026 09:00:00 +0900</pubDate>
@@ -81,6 +71,16 @@ https://yokobo-ai-lab.vercel.app/]]></itunes:summary>
     <guid isPermaLink="false">yokobo-lab-ep074</guid>
     <itunes:duration>655</itunes:duration>
     <itunes:episode>74</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>#75 若手の挑戦を、ちゃんと喜べていますか？</title>
+    <description><![CDATA[<p>研究ログ 第75回目は</p><p><br></p><p>若手の挑戦を、ちゃんと喜べていますか？</p><p><br></p><p>小さなチームを持つ中で、1年目のメンバーに部署内のミーティングで発表してもらう機会をつくりました。発表の内容には改善点もありましたが、上司が「発表したこと」「挑戦したこと」自体をとても喜んでくれた。その姿が心に残りました。</p><p><br></p><p>まずはバッターボックスに立ったことを肯定する。そのうえで、本人の成長につながるように内容について伝える。挑戦する人を後押しできるチームでありたいという、自分の価値観をあらためて考えた研究ログです。</p><p><br></p><p>▼よこぼのAIラボ</p><p>AIで遊びながら、ゲーム・3D・動画・Web開発などを実験中。</p><p>日々の気づきや研究ログを発信しています。</p><p><a href="https://yokobo-ai-lab.vercel.app">https://yokobo-ai-lab.vercel.app</a></p>]]></description>
+    <pubDate>Thu, 19 Nov 2026 09:00:00 +0900</pubDate>
+    <enclosure url="https://yokobo-podcast.yokobo-ai-lab.workers.dev/podcast/ep075.mp3" length="9579250" type="audio/mpeg"/>
+    <guid isPermaLink="false">yokobo-lab-ep075</guid>
+    <itunes:duration>598</itunes:duration>
+    <itunes:episode>75</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
