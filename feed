@@ -64,6 +64,16 @@ https://yokobo-ai-lab.vercel.app/]]></itunes:summary>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <item>
+    <title>#74 AXエバンジェリストに俺はなる！</title>
+    <description><![CDATA[<p>研究ログ 第74回目は</p><p><br></p><p>AXエバンジェリストに俺はなる！</p><p><br></p><p>東京大学の松尾研究室が主催するAX Evangelist講座を受講しています。最後の講義で聞いた、AIを社内に導入していくための勉強会の事例がとても面白かったので、その話をしました。</p><p><br></p><p>人事部の一メンバーが勉強会を開き、興味を持った他部署の人とのつながりから情報を集め、自分の部署の課題をAIで解決する活動を組織全体へ広げていった事例。組織には、まず自分で試す人、ルールがあれば動く人、証拠がないと動かない人など、さまざまなタイプがいます。それぞれの強みを理解し、どうすれば動いてもらえるかを考えることが大切だと学びました。</p><p><br></p><p>まだ信じていない人に信じてもらい、橋がかかっていないところに橋をかけるのがエバンジェリスト。講座を通じて、自分もそうなりたいんだと気づいた研究ログです。</p><p><br></p><p>▼よこぼのAIラボ</p><p>AIで遊びながら、ゲーム・3D・動画・Web開発などを実験中。</p><p>日々の気づきや研究ログを発信しています。</p><p><a href="https://yokobo-ai-lab.vercel.app">https://yokobo-ai-lab.vercel.app</a></p>]]></description>
+    <pubDate>Thu, 19 Nov 2026 09:00:00 +0900</pubDate>
+    <enclosure url="https://yokobo-podcast.yokobo-ai-lab.workers.dev/podcast/ep074.mp3" length="10485804" type="audio/mpeg"/>
+    <guid isPermaLink="false">yokobo-lab-ep074</guid>
+    <itunes:duration>655</itunes:duration>
+    <itunes:episode>74</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>#73 AIでゲームを作ったら、勉強会まで変わった</title>
     <description><![CDATA[<p>研究ログ 第73回目は</p><p><br></p><p>AIでゲームを作ったら、勉強会まで変わった</p><p><br></p><p>MetaのAIエージェント「Muse」で、医薬品の製造工程を体験できるゲームを作りました。最初の着想から6日間、バージョン30まで試作とやり取りを重ねながら、自分が欲しいものの方向性を少しずつ見つけていきました。</p><p><br></p><p>完成したゲームを部署のメンバーに触ってもらいながら説明すると、動かないパワーポイントよりも話しやすく、実際に操作してもらうことで理解を深めてもらえる手応えがありました。受け身で聞くだけでなく、自分で触って体験してもらうことの大切さを感じた話です。</p><p><br></p><p>くすりづくりシミュレーター</p><p><a href="https://enjoytabletmaking.vercel.app">https://enjoytabletmaking.vercel.app</a></p><p>※PC推奨です。</p><p><br></p><p>自分でツールを作り、それを使って学びを深めてもらう。こうしたことが、いろいろなテーマで簡単にできる時代になってきたのかもしれないと感じた研究ログです。</p><p><br></p><p>▼よこぼのAIラボ</p><p>AIで遊びながら、ゲーム・3D・動画・Web開発などを実験中。</p><p>日々の気づきや研究ログを発信しています。</p><p><a href="https://yokobo-ai-lab.vercel.app">https://yokobo-ai-lab.vercel.app</a></p>]]></description>
     <pubDate>Tue, 17 Nov 2026 09:00:00 +0900</pubDate>
