@@ -64,6 +64,16 @@ https://yokobo-ai-lab.vercel.app/]]></itunes:summary>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <item>
+    <title>#77 知らなくても困らない。でも、知っていたら面白い。</title>
+    <description><![CDATA[<p>研究ログ 第77回目は</p><p><br></p><p>知らなくても困らない。でも、知っていたら面白い。</p><p><br></p><p>以前紹介した、MetaのAIエージェント「Muse」で作ったくすりづくりゲームを、今も少しずつアップデートしています。医薬品業界にいながら、実際に薬づくりを経験したことがない人にも、薬がどう作られているのかをゲームで感じてもらえたらと思って作りました。</p><p><br></p><p>そのゲームを、以前のチームメンバーが今の部署で共有してもいいかと連絡をくれました。自分の知らないところでゲームが広がっていくこと、そして「自分たちが関わっている仕事を知る機会がもっとあってもいい」という思いを共有できたことが、とても嬉しかったという話です。</p><p><br></p><p>くすりづくりシミュレーター</p><p><a href="https://enjoytabletmaking.vercel.app">https://enjoytabletmaking.vercel.app</a></p><p>※PC推奨です。</p><p><br></p><p>よかったら遊んでみてください。ご意見や感想もお待ちしています。</p><p><br></p><p>▼よこぼのAIラボ</p><p>AIで遊びながら、ゲーム・3D・動画・Web開発などを実験中。</p><p>日々の気づきや研究ログを発信しています。</p><p><a href="https://yokobo-ai-lab.vercel.app">https://yokobo-ai-lab.vercel.app</a></p>]]></description>
+    <pubDate>Tue, 24 Nov 2026 09:00:00 +0900</pubDate>
+    <enclosure url="https://yokobo-podcast.yokobo-ai-lab.workers.dev/podcast/ep077.mp3" length="7390398" type="audio/mpeg"/>
+    <guid isPermaLink="false">yokobo-lab-ep077</guid>
+    <itunes:duration>461</itunes:duration>
+    <itunes:episode>77</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>#76 失敗させてくれよ！僕には「失敗の権利」があるんだ！</title>
     <description><![CDATA[<p>研究ログ 第76回目は</p><p><br></p><p>失敗させてくれよ！僕には「失敗の権利」があるんだ！</p><p><br></p><p>何か新しいことを始める人に、経験者が「それならこうした方がいい」「それでは失敗する」と先回りして教えたくなる。でも、その親切心が、本人の失敗する権利を奪っていないだろうか。Xで見かけた「失敗させてくれよ」という言葉から考えました。</p><p><br></p><p>息子が油粘土を水で柔らかくしようとしたとき、うまくいかないかもしれないと思いながらも、何も言わずに手伝いました。成功したかったのではなく、ただ試したかったのかもしれない。ロボットカーづくりも、試行錯誤そのものを楽しんでいるのだと思います。</p><p><br></p><p>危険がある場合は止める必要がありますが、何でも先回りして道を整えるのではなく、新人や子どもが自分で試す時間を見守ることも大切。失敗する権利について考えた研究ログです。</p><p><br></p><p>▼よこぼのAIラボ</p><p>AIで遊びながら、ゲーム・3D・動画・Web開発などを実験中。</p><p>日々の気づきや研究ログを発信しています。</p><p><a href="https://yokobo-ai-lab.vercel.app">https://yokobo-ai-lab.vercel.app</a></p>]]></description>
     <pubDate>Fri, 20 Nov 2026 09:00:00 +0900</pubDate>
