@@ -64,6 +64,16 @@ https://yokobo-ai-lab.vercel.app/]]></itunes:summary>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <item>
+    <title>#78 AIに研究を任せたら、何をやっているのかわからなくなった</title>
+    <description><![CDATA[<p>研究ログ 第78回目は</p><p><br></p><p>AIに研究を任せたら、何をやっているのかわからなくなった</p><p><br></p><p>以前紹介したロボットカーにロボットアームを取り付けるため、まずは距離センサーのデータ取りを始めました。ところが、AIエージェントのCodexに作業を任せ、僕は写真を撮る係に回っているうちに、研究が同じところをぐるぐる回っているような感覚になってきました。</p><p><br></p><p>そもそも、どの程度の精度を目指すのかという前提を、僕もCodexも十分に共有できていなかった。進捗報告を受けても、いま何のステップにいるのか分からず、何をしているのか分からない状態になって、モチベーションも下がってしまいました。</p><p><br></p><p>今回の反省から、作業を任せるときも、自分が全てを理解する必要はないけれど、現在地と次のステップが分かる報告の仕組みは必要だと感じました。これは人に仕事を任せるときの進捗管理にも通じる話。ロボットアームの制作も始めたので、その続きもお話ししています。</p><p><br></p><p>▼よこぼのAIラボ</p><p>AIで遊びながら、ゲーム・3D・動画・Web開発などを実験中。</p><p>日々の気づきや研究ログを発信しています。</p><p><a href="https://yokobo-ai-lab.vercel.app">https://yokobo-ai-lab.vercel.app</a></p>]]></description>
+    <pubDate>Wed, 25 Nov 2026 09:00:00 +0900</pubDate>
+    <enclosure url="https://yokobo-podcast.yokobo-ai-lab.workers.dev/podcast/ep078.mp3" length="8669771" type="audio/mpeg"/>
+    <guid isPermaLink="false">yokobo-lab-ep078</guid>
+    <itunes:duration>541</itunes:duration>
+    <itunes:episode>78</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>#77 知らなくても困らない。でも、知っていたら面白い。</title>
     <description><![CDATA[<p>研究ログ 第77回目は</p><p><br></p><p>知らなくても困らない。でも、知っていたら面白い。</p><p><br></p><p>以前紹介した、MetaのAIエージェント「Muse」で作ったくすりづくりゲームを、今も少しずつアップデートしています。医薬品業界にいながら、実際に薬づくりを経験したことがない人にも、薬がどう作られているのかをゲームで感じてもらえたらと思って作りました。</p><p><br></p><p>そのゲームを、以前のチームメンバーが今の部署で共有してもいいかと連絡をくれました。自分の知らないところでゲームが広がっていくこと、そして「自分たちが関わっている仕事を知る機会がもっとあってもいい」という思いを共有できたことが、とても嬉しかったという話です。</p><p><br></p><p>くすりづくりシミュレーター</p><p><a href="https://enjoytabletmaking.vercel.app">https://enjoytabletmaking.vercel.app</a></p><p>※PC推奨です。</p><p><br></p><p>よかったら遊んでみてください。ご意見や感想もお待ちしています。</p><p><br></p><p>▼よこぼのAIラボ</p><p>AIで遊びながら、ゲーム・3D・動画・Web開発などを実験中。</p><p>日々の気づきや研究ログを発信しています。</p><p><a href="https://yokobo-ai-lab.vercel.app">https://yokobo-ai-lab.vercel.app</a></p>]]></description>
     <pubDate>Tue, 24 Nov 2026 09:00:00 +0900</pubDate>
