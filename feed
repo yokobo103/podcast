@@ -64,6 +64,16 @@ https://yokobo-ai-lab.vercel.app/]]></itunes:summary>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <item>
+    <title>#79 「若手社員に何を求めますか？」と聞かれて、言葉に詰まった</title>
+    <description><![CDATA[<p>研究ログ 第79回目は</p><p><br></p><p>「若手社員に何を求めますか？」と聞かれて、言葉に詰まった</p><p><br></p><p>会社のキャリアインタビューで、後輩社員から「若手社員に何を求めますか？」と聞かれ、答えに詰まりました。とっさには「仕事を楽しんでほしい」と答えたものの、改めて考えると、楽しさだけを求めているわけではないことに気づきました。</p><p><br></p><p>大切なのは、日々の仕事の中で気づきや学びを得ること。環境の変化に気づいて動けることは、本人にとっても組織にとっても重要で、気づきや学びが仕事の楽しさや、続けていく力にもつながっていくのだと思います。</p><p><br></p><p>一方で、それを本人に丸投げするリーダーにはなりたくない。一緒に働く人が楽しく仕事を続けられるように、気づきや学びが生まれる環境を作りたい。答えに詰まった質問をきっかけに、自分がチームにどう関わりたいのかを考えた研究ログです。</p><p><br></p><p>▼よこぼのAIラボ</p><p>AIで遊びながら、ゲーム・3D・動画・Web開発などを実験中。</p><p>日々の気づきや研究ログを発信しています。</p><p><a href="https://yokobo-ai-lab.vercel.app">https://yokobo-ai-lab.vercel.app</a></p>]]></description>
+    <pubDate>Fri, 27 Nov 2026 09:00:00 +0900</pubDate>
+    <enclosure url="https://yokobo-podcast.yokobo-ai-lab.workers.dev/podcast/ep079.mp3" length="8327044" type="audio/mpeg"/>
+    <guid isPermaLink="false">yokobo-lab-ep079</guid>
+    <itunes:duration>520</itunes:duration>
+    <itunes:episode>79</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>#78 AIに研究を任せたら、何をやっているのかわからなくなった</title>
     <description><![CDATA[<p>研究ログ 第78回目は</p><p><br></p><p>AIに研究を任せたら、何をやっているのかわからなくなった</p><p><br></p><p>以前紹介したロボットカーにロボットアームを取り付けるため、まずは距離センサーのデータ取りを始めました。ところが、AIエージェントのCodexに作業を任せ、僕は写真を撮る係に回っているうちに、研究が同じところをぐるぐる回っているような感覚になってきました。</p><p><br></p><p>そもそも、どの程度の精度を目指すのかという前提を、僕もCodexも十分に共有できていなかった。進捗報告を受けても、いま何のステップにいるのか分からず、何をしているのか分からない状態になって、モチベーションも下がってしまいました。</p><p><br></p><p>今回の反省から、作業を任せるときも、自分が全てを理解する必要はないけれど、現在地と次のステップが分かる報告の仕組みは必要だと感じました。これは人に仕事を任せるときの進捗管理にも通じる話。ロボットアームの制作も始めたので、その続きもお話ししています。</p><p><br></p><p>▼よこぼのAIラボ</p><p>AIで遊びながら、ゲーム・3D・動画・Web開発などを実験中。</p><p>日々の気づきや研究ログを発信しています。</p><p><a href="https://yokobo-ai-lab.vercel.app">https://yokobo-ai-lab.vercel.app</a></p>]]></description>
     <pubDate>Wed, 25 Nov 2026 09:00:00 +0900</pubDate>
